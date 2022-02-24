@@ -1,0 +1,1980 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Misericordiam volo, or, The pharisees lesson shewing the impiety and vnreasonableness of contending for outward formes and ceremonies, to the violation of obedience, charity, and the publick peace.</title>
+            <author>Long, Thomas, 1621-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51000</idno>
+            <idno type="STC">Wing M2245</idno>
+            <idno type="STC">ESTC R33489</idno>
+            <idno type="EEBO-CITATION">12787619</idno>
+            <idno type="OCLC">ocm 12787619</idno>
+            <idno type="VID">93904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 699:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Misericordiam volo, or, The pharisees lesson shewing the impiety and vnreasonableness of contending for outward formes and ceremonies, to the violation of obedience, charity, and the publick peace.</title>
+                  <author>Long, Thomas, 1621-1707.</author>
+                  <author>Long, Thomas, 1621-1707. Character of a separatist, or, Sensuality the ground of separation.</author>
+               </titleStmt>
+               <extent>[30], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also appears as second part of Thomas Long's The character of a separatist, or, Sensuality the ground of separation. ... London, 1677. cf. NUC pre-1956, v. 340, pg. 130.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93904:1"/>
+            <pb facs="tcp:93904:1" rendition="simple:additions"/>
+            <p>
+               <hi>MISERICORDIAM VOLO:</hi> OR, THE Phariſees LESSON.
+<hi>SHEWING</hi> The <hi>Impiety</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nreaſonableneſs</hi> of
+contending for outward Formes and Ceremonies, to the Violation of Obedience,
+Charity, and the Publick Peace.</p>
+            <q>Haud dubitem affirmare eos qui falluntur &amp; tamen fraternam
+communionem cum aliis retinere parati ſunt, eſſe coram Deo magis
+excuſatos, quàm qui veras opiniones in iis controverſiis tuentur,
+&amp; mu<g ref="char:EOLhyphen"/>tuam communionem cum aliis Eccleſiis etiam deſi<g ref="char:EOLhyphen"/>derantibus,
+aſpernantur. 
+<bibl>
+                  <hi>Davenant.</hi> pro pace Ec<g ref="char:EOLhyphen"/>cleſiae, <hi>p.
+24.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby</hi> at the
+<hi>Biſhop</hi>'s Head in St. <hi>Paul</hi>'s Church-Yard, 1677.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:93904:2"/>
+            <pb facs="tcp:93904:2"/>
+            <head>THE PREFACE <hi>Concerning the Ceremonies</hi> of the
+<hi>Church.</hi>
+            </head>
+            <p>IT is granted by all ſober Prote<g ref="char:EOLhyphen"/>ſtants, that the Church hath
+po<g ref="char:EOLhyphen"/>wer of making Canons and Con<g ref="char:EOLhyphen"/>ſtitutions, for Decency and Order in the
+publick worſhip of God; and not only to preſcribe the neceſſary
+circum<g ref="char:EOLhyphen"/>ſtances of time and place; but alſo to continue and eſtabliſh
+thoſe ancient rites of the Chriſtian Church, which were practiſed in the
+primitive times, and are in themſelves of an indifferent nature; which
+authority of the Church was aſſerted in the <hi>Auguſtan</hi>
+confeſſion, 
+<note place="margin">
+                  <hi>Inſtit. l.</hi> 4. <hi>c.</hi> 10. S. 27.
+See <hi>T. C. l.</hi> 1. <hi>p.</hi> 27.</note> and particularly by Mr.
+<hi>Calvin,</hi> and other worthy perſons in the Reforma<g ref="char:EOLhyphen"/>tion. Which our
+Reformers alſo did aſſume to themſelves, as is declared in the 20th.
+Article; and hath been pra<g ref="char:EOLhyphen"/>ctiſed <pb facs="tcp:93904:3"/>and defended againſt all
+Diſſen<g ref="char:EOLhyphen"/>ters, 
+<note place="margin">Acts 15.28. 1 Corinth. 11.16.</note> as well by
+Scripture, as by Anti<g ref="char:EOLhyphen"/>quity, and right reaſon: and therefore thoſe
+perſons that condemn the Cere<g ref="char:EOLhyphen"/>monies of the Church, which the Mar<g ref="char:EOLhyphen"/>tyrs and
+Confeſſors of our Church, did eſtabliſh upon mature deliberation, do
+reflect too ſeverely upon thoſe Wor<g ref="char:EOLhyphen"/>thies, who with equal prudence and
+conſtancy, did commend them to us. And the <hi>Royal Martyr</hi> was ſo
+tender of their reputation, 
+<note place="margin">
+                  <hi>Exact col<g ref="char:EOLhyphen"/>lect. p.</hi> 26.</note> that in
+his anſwer to the <hi>Parliaments Remonſtrance,</hi> he promiſeth to
+reform the Ceremonies with theſe cautions. 1. That the Re<g ref="char:EOLhyphen"/>formation were
+purſued with ſuch mo<g ref="char:EOLhyphen"/>deſty and ſubmiſſion, that the quiet of the
+Kingdom were not diſturbed: 2. Nor the decency and comelineſs of God's
+ſervice diſcountenanced: 3. Nor the pious, ſober, and devout actions of
+thoſe reverend perſons, who were the firſt labourers in the bleſſed
+Reforma<g ref="char:EOLhyphen"/>tion, be ſcandalized and defamed. And ſome that are not friends to
+Ceremo<g ref="char:EOLhyphen"/>nies, 
+<note place="margin">
+                  <hi>Saints care for Church Communi<g ref="char:EOLhyphen"/>on.</hi> p.
+334.</note> have vindicated thoſe perſons in this reſpect. 
+<q rend="margQuotes">What ſhall we ſay of re<g ref="char:EOLhyphen"/>verend
+<hi>Ridley,</hi> (ſaith Maſter <hi>Crofton</hi>) hearty <hi>Hooper,</hi>
+ſincere <hi>Sanders,</hi> truſty <pb facs="tcp:93904:3"/>
+                  <hi>Tayler,</hi> and moſt
+brave <hi>Bradford,</hi> with the cloud of Witneſſes that ſerved God by
+the Liturgy to their laſt breath, even in their moſt perſonal and dying
+devotions, and ſuffered al<g ref="char:EOLhyphen"/>ſo for ſo doing, having the ſame ob<g ref="char:EOLhyphen"/>jected
+againſt them by their Perſecu<g ref="char:EOLhyphen"/>tors, and alſo preſſed the people, and
+their choiceſt friends, to adhere to it, and ſerve God by it. And however
+ſome ſucceeding Chriſtians have deſi<g ref="char:EOLhyphen"/>red ſome reformation of the
+Liturgy, they have conſtantly, and with due devotion ſerved God in the
+uſe there<g ref="char:EOLhyphen"/>of, and defended the ſame againſt the <hi>cenſorious
+Browniſts,</hi> and rigid <hi>Sepa<g ref="char:EOLhyphen"/>ratiſts.</hi>
+               </q>— And the firſt
+reformation had the perfection of ſubſtance, though not of degrees, Gods
+true worſhip was reſtored to a right order of miniſtrati<g ref="char:EOLhyphen"/>on, the
+Ordinances of God did then truly exiſt, as to their ſubſtance, and
+ſalvably as to their Miniſterial mode towards the people; otherwiſe
+thoſe holy Men had not wherein to rejoyce before God and the World. And
+cer<g ref="char:EOLhyphen"/>tainly they did not entayl a Popiſh, Su<g ref="char:EOLhyphen"/>perſtitious, or Idolatrous Yoke
+(as ſome call the Ceremonies) on the <pb facs="tcp:93904:4"/>Church of God. Mr.
+<hi>Cartwright</hi> was one of the firſt Oppoſers of the Cere<g ref="char:EOLhyphen"/>monies, and
+inſtead of acquainting you with the Anſwers of Arch-Biſhop
+<hi>Whitgift,</hi> and judicious <hi>Hooker,</hi> to his arguments, it will be
+ſufficient to ſay, that Mr. <hi>Cartwright</hi> himſelf hath ſaid
+enough to confute the diſſenters of our times, for firſt he oppoſed
+them, only as inconvenient, not unlawful: and perſwaded Miniſters rather to
+wear the Garments than ceaſe their Mini<g ref="char:EOLhyphen"/>ſtry, 
+<note place="margin">2d. <hi>Reply. p.</hi> 262.</note> and in his
+<hi>Evangelical Harmony,</hi> on <hi>Luke</hi> 22. (<hi>à</hi> v. 14.
+<hi>ad</hi> 19.) he ſaith, that kneeling in the receiving of the Sacrament
+being incommodious in its own nature, 
+<note place="margin">
+                  <hi>p.</hi> 877. <hi>Edit. ult.</hi>
+               </note> and
+made more incom<g ref="char:EOLhyphen"/>modious by <hi>Popiſh</hi> Superſtition, is not ſo to be
+rejected, that for the ſake there<g ref="char:EOLhyphen"/>of we ſhould abſtain from the
+Sacra<g ref="char:EOLhyphen"/>ment, becauſe the thing is not in its own nature unlawful — And
+what his judgment was in the caſe of Sepa<g ref="char:EOLhyphen"/>ration, appears in a Letter of his
+to Mr. <hi>Harriſon</hi> lately publiſhed: And in another Letter to his
+Siſter <hi>Anne Stubs,</hi> reproving her for ſtumbling at this ſtone,
+that becauſe of ſome defects in a Church, inſtead of concluding that 
+<pb facs="tcp:93904:4"/>Church to be imperfect, ſhe concluded it to be no Church. The
+wiſe and ho<g ref="char:EOLhyphen"/>ly Mr. <hi>Hilderſham, Bradſhaw, Paget, Ball, Gifford,</hi> 
+               <note place="margin">
+                  <hi>Cure of Diviſions. p.</hi> 188.</note> and
+other learned Non<g ref="char:EOLhyphen"/>conformiſts of old did foreſee and great<g ref="char:EOLhyphen"/>ly fear this
+Spirit (ſaith Mr. <hi>Baxter.</hi>) But this Spirit being very troubleſome
+and pragmatical, the moſt learned of the diſſenters did alway endeavour
+to moderate it, as well by their quiet and peaceable practice, as by their
+learned and earneſt arguments, and exhortati<g ref="char:EOLhyphen"/>ons to unity in the publick
+Worſhip. And accordingly when King <hi>James,</hi> ſhortly after his entry
+into the Throne, had appointed the conference at <hi>Ham<g ref="char:EOLhyphen"/>pton</hi> Court, where
+Doctor <hi>Raynolds,</hi> Dr. <hi>Chaderton,</hi> Dr. <hi>Spark,</hi> and
+others were appointed to diſcourſe the mat<g ref="char:EOLhyphen"/>ters in controverſie, with
+ſome <hi>Epiſco<g ref="char:EOLhyphen"/>pal Divines:</hi> They were ſo far from affirming the
+ceremonies to be unlaw<g ref="char:EOLhyphen"/>ful, that they would not have it known that any of that
+party were ſo weak, as to affirm it; and Dr. <hi>Raynolds</hi> was ſo far
+ſatisfied, that before his death he ſolemnly declared himſelf to be of
+the communion of the <hi>Church</hi> of <hi>England,</hi> and deſired
+abſolution according to the <pb facs="tcp:93904:5"/>form appointed in the Liturgy. About
+this time Biſhop <hi>Morton,</hi> Doctor <hi>Bur<g ref="char:EOLhyphen"/>ges,</hi> Mr.
+<hi>Sprint,</hi> and others did moſt rationally, and irrefragably aſſert
+the innocency of the Ceremonies, and the neceſſity of the Miniſters
+conforming rather than to ſuffer deprivation, and of the peoples, rather than
+to be de<g ref="char:EOLhyphen"/>prived of the Ordinances of Chriſt. I intend not a Hiſtory of the
+tranſacti<g ref="char:EOLhyphen"/>ons in this buſineſs, and therefore ſhall only give you a
+brief account of it, from the beginning of our unhappy troubles. The <hi>Long
+Parliament</hi> in their Petition, and <hi>Remonſtrance</hi> joyned with it,
+<hi>De<g ref="char:EOLhyphen"/>cember</hi> 15. 1642. inform us of ſome Malignant parties, whoſe
+proceedings evidently appeared to be, mainly, for the advantage and increaſe
+of Pope<g ref="char:EOLhyphen"/>ry, and were compoſed, ſet up, and acted, by the ſubtle practice
+of the <hi>Jeſuits,</hi> and other Engineers and Fa<g ref="char:EOLhyphen"/>ctors for <hi>Rome,</hi>
+who had ſo far pre<g ref="char:EOLhyphen"/>vailed, as to corrupt divers of the Bi<g ref="char:EOLhyphen"/>ſhops and others,
+in prime places of the Church, 
+<note place="margin">Exact Collect.</note> and <hi>p.</hi> 20. they
+intimate, that Idolatry, and Popiſh Ceremonies were introduced to the Church,
+by command of the Biſhops; and the <pb facs="tcp:93904:5"/>people were not only debarred
+the Church, but expelled the Kingdom. And that thoſe were counted fitteſt
+for Eccleſiaſtical preferment, and ſooneſt attained it, who were moſt
+officious in promoting Superſtition, moſt viru<g ref="char:EOLhyphen"/>lent in railing againſt
+Godlineſs and honeſty. We deſire (ſay they) to unburthen the
+Conſciences of men, of needleſs and Superſtitious Ceremo<g ref="char:EOLhyphen"/>nies,
+ſuppreſs Innovations, and take away the monuments of Idolatry. To this His
+Majeſty of Bleſſed Memory anſwered thus. 
+<q rend="margQuotes">The fears for Re<g ref="char:EOLhyphen"/>ligion, may haply be,
+not only as it may be innovated by the <hi>Romiſh</hi> party, but as it is
+accompanied with ſome Ceremonies, at which ſome tender Conſciences really
+are, or pre<g ref="char:EOLhyphen"/>tend to be ſcandalized. Concerning Religion, as there may be any
+ſuf<g ref="char:EOLhyphen"/>picion of favour, or inclination to the <hi>Papiſts,</hi> we are
+willing to de<g ref="char:EOLhyphen"/>clare to all the World, that as we have been from our childhood
+brought up in, and practiſed the Re<g ref="char:EOLhyphen"/>ligion now eſtabliſhed, ſo it is
+well known, we have (not contented ſimply with the principles of our 
+<pb facs="tcp:93904:6"/>Education) given a good proportion of our time and pains, to the
+exa<g ref="char:EOLhyphen"/>mination of the grounds of this Re<g ref="char:EOLhyphen"/>ligion, as it is different from that of
+<hi>Rome,</hi> and are from our Soul ſo fully ſatisfied, and aſſured
+that it is the moſt pure, and agreeable to the Sacred Word of God, of any
+Reli<g ref="char:EOLhyphen"/>gion now practiſed in the Chriſtian world, that as we believe we can
+maintain the ſame by unanſwerable Reaſons, ſo we hope we ſhould
+readi<g ref="char:EOLhyphen"/>ly ſeal to it by the effuſion of our Bloud, if it pleaſed God to
+call us to that Sacrifice. And therefore no<g ref="char:EOLhyphen"/>thing can be ſo acceptable to us,
+as any propoſition which may contri<g ref="char:EOLhyphen"/>bute to the advancement of it here, or
+the propagation of it abroad, being the only means of drawing down the
+Bleſſings of God upon our ſelves and this Nation. And we have been
+ex<g ref="char:EOLhyphen"/>treamly unfortunate if this Profeſſion of ours be wanting to our
+people— For differences among our ſelves, for matters indifferent in
+their own na<g ref="char:EOLhyphen"/>ture, we ſhall, in tenderneſs to any number of our loving
+Subjects, very willingly comply with the advice of <pb facs="tcp:93904:6"/>our Parliament,
+that ſome Law may be made, for the exemption of ten<g ref="char:EOLhyphen"/>der Conſciences from
+puniſhment, or perſecution, for ſuch Ceremonies, and in ſuch caſes,
+which by the judg<g ref="char:EOLhyphen"/>ment of moſt men are held to be mat<g ref="char:EOLhyphen"/>ters indifferent, and
+of ſome to be abſolutely unlawful. (Provided <hi>&amp;c.</hi> as before
+mentioned, under the three cautions.) To that clauſe which con<g ref="char:EOLhyphen"/>cerns
+corruptions (as you ſtile them) in Religion, in Church Government, and in
+Diſcipline, and the removing ſuch unneceſſary Ceremonies, as weak
+Conſciences might check at: That for any illegal Innovations which may have
+crept in, we ſhall willingly concur in the removal of them, but we are very
+ſorry to hear in ſuch general terms, corruption in Religion objected,
+ſince we are per<g ref="char:EOLhyphen"/>ſwaded in Conſcience, that no Church on Earth can be
+found, that profeſſeth the true Religion with more purity of Doctrine, than
+the Church of <hi>England</hi> doth, nor where the Government and Diſcipline
+are joyntly more beautified and free from Superſtition, than as they are 
+<pb facs="tcp:93904:7"/>here eſtabliſhed by Law, which by the Grace of God we will with
+con<g ref="char:EOLhyphen"/>ſtancy maintain, while we live, in their purity and glory, not only
+a<g ref="char:EOLhyphen"/>gainſt all invaſions of <hi>Popery,</hi> but alſo from the irreverence
+of thoſe Schiſma<g ref="char:EOLhyphen"/>ticks and Separatiſts, wherewith of late this Kingdom
+and City abound, to the great diſhonour and hazard of Church and State.</q>
+Doubtleſs they had very much of the nature of the <hi>Adder</hi> in them, who
+inſtead of being charmed into a quiet and meek ſub<g ref="char:EOLhyphen"/>miſſion by theſe
+moſt pious, gracious, ſincere Reaſons and condeſcenſions, did
+precipitate themſelves, and the three Nations to thoſe horrible
+confuſions, which that Prophetick, as well as Royal Spirit foretold, for
+immediately after, the people of the Land being frighted by frequent
+remonſtrances of fears and jealouſies of Popery and Su<g ref="char:EOLhyphen"/>perſtition, run
+themſelves into cer<g ref="char:EOLhyphen"/>tain ſnares as to their Eſtates, by the inſatiable
+oppreſſion of their new Ma<g ref="char:EOLhyphen"/>ſters, and their Lives, by their want of
+Loyalty, and as to their Conſciences by illegal Oaths and Covenants, till the
+beauty of Religion was deſtroyed <pb facs="tcp:93904:7"/>for want of Order and Reverence,
+and the ſubſtance of it devoured by Sects and Hereſies of all kinds. And
+this moſtly for Reformation of Ceremonies, for the Doctrine needed it not. I
+do even tremble to relate in a corner, what a Preacher who was then of great
+repute, ſpake in the moſt eminent meeting of the Nation (the preſent
+Parliament, <hi>Anno</hi> 1656.) in theſe words. Worthy Patriots, you that
+are Rulers, in this preſent Parliament— Praiſed be God, who hath
+delivered us from Prelatical innovations, Altar<g ref="char:EOLhyphen"/>genu-flexions and cringings,
+with croſſings, and all that Popiſh traſh, and trumpery; and truly, I
+ſpeak no more, than what I have often thought, and ſaid—The removal
+of theſe inſup<g ref="char:EOLhyphen"/>portable burdens, countervails for the Bloud and Treaſure
+ſhed and ſpent in theſe late diſtractions; nor did I as yet ever hear
+of any godly men, that de<g ref="char:EOLhyphen"/>ſired (were it poſſible) to purchaſe their
+friends, or mony again, at ſo dear a rate, as the return of theſe, to have
+thoſe Soul-burthening Antichri<g ref="char:EOLhyphen"/>ſtian yokes impoſed upon us; if any ſuch
+here be, I am ſure, that deſire is <pb facs="tcp:93904:8"/>no part of their
+godlineſs, and I pro<g ref="char:EOLhyphen"/>feſs my ſelf in that, to be none of the number.] Can
+any that bears the name of a Chriſtian hear ſuch things with<g ref="char:EOLhyphen"/>out hornor,
+eſpecially when he ſhall ſeriouſly conſider what a deluge of bloud
+had overflown the land, The King being Murthered about Eight years before, and
+the Sword, and the Axe having glutted themſelves with the Bloud of many Noble
+Heroes, and learned Clergy-men? And beſides the many thouſands that dyed
+for their Re<g ref="char:EOLhyphen"/>ligion, and Loyalty, there were very many that periſhed alſo
+in Rebellion, againſt God and the King. He had lit<g ref="char:EOLhyphen"/>tle charity for his
+Brethren, that would not on ſuch eaſie conditions, redeem them from the
+grave and hell; if we may argue from a Parable, <hi>Dives</hi> had more charity
+in that place of Torment, than was in this Preachers breaſt, and if this be a
+mark of godlineſs, <hi>Satan</hi> needs not to be transformed, to paſs for
+an Angel of light, ſure I am no<g ref="char:EOLhyphen"/>thing can be more oppoſite to this
+E<g ref="char:EOLhyphen"/>vangelical truth, which the Text that is before us commends, <hi>(viz.)</hi>
+of pre<g ref="char:EOLhyphen"/>ferring mercy before Sacrifice. I com<g ref="char:EOLhyphen"/>mend <pb facs="tcp:93904:8"/>it therefore to
+your ſerious con<g ref="char:EOLhyphen"/>ſideration, whether thoſe perſons, who ſo
+pertinaciouſly inſiſt upon the aboli<g ref="char:EOLhyphen"/>ſhing of our Ceremonies, as to
+increaſe our diviſions, and engage us again in Bloud and confuſion, are
+not acted by a like Spirit of perverſeneſs, that delight<g ref="char:EOLhyphen"/>ing it ſelf to
+live in the fire of contention takes pleaſure in drawing others and
+tormenting them in the like flames.</p>
+            <p>At the happy return of our Dear Soveraign, who after the example
+of his Martyred Father, was careful to ſee the Church eſtabliſhed in its
+beau<g ref="char:EOLhyphen"/>ty, we found this evil Spirit ſo vio<g ref="char:EOLhyphen"/>lently to oppoſe as if it had
+taken ſe<g ref="char:EOLhyphen"/>ven worſe than it ſelf, to ſecure the poſſeſſion which
+it had in the hearts of the people, being in danger of being caſt out: then
+was <hi>Nehuſtan</hi> ſent a<g ref="char:EOLhyphen"/>broad to perſwade the people, that the
+<hi>Liturgy, Ceremonies, and other things uſed in the Church of England,
+ought not to be impoſed, nor retained, but utterly extirpated, and laid
+aſide, and that every one in his place ought to do his part to the
+aboliſhing of it, and not ſit ſtill in the midſt of ſuch defilements
+and ſnares, but diſcover their hatred of them, decline <pb facs="tcp:93904:9"/>their
+uſe, and endeavour the rooting of them out;</hi> and all upon this ground,
+that things which have been abuſed in falſe Worſhip muſt be laid
+aſide. 
+<note place="margin">Gilaſpy.</note> Then comes another
+<hi>Boreas</hi> from the <hi>North</hi> (whence moſt of our evils came)
+cal<g ref="char:EOLhyphen"/>led a Diſpute againſt the <hi>Engliſh Popiſh Ceremonies,</hi> which
+he explains to be, a contending for the purity of Chriſt, againſt the
+corruptions of Anti-chriſt, and this Spirit, as if he were indeed of the
+triumphant party, leads in chains no meaner perſons, than <hi>Hooker,
+Mor<g ref="char:EOLhyphen"/>ton, Burges, Sprint, Paybody, Andrews, Saravia, Tilen, Spotſwood,
+Lindſey, For<g ref="char:EOLhyphen"/>bes,</hi> &amp;c. who were all particularly confuted, and
+vanquiſhed by him, as he boaſted. But this pitiful man dealt very
+mercifully with them, for their chains were ſuch as fell off of their own
+accord: and ſo do thoſe vi<g ref="char:EOLhyphen"/>perous appellations which he endea<g ref="char:EOLhyphen"/>vours to fix
+on the Church, and her practiſes, 
+<note place="margin">
+                  <hi>Preface, p.</hi> 6.</note> calling them
+Popiſh, Anti<g ref="char:EOLhyphen"/>chriſtian, Idle and Idolized, for thus he beſpeaks the
+Church of <hi>Scotland:</hi> Oh thou faireſt among Women, what haſt thou to
+do with the inveag<g ref="char:EOLhyphen"/>ling appurtenances and habiliments <pb facs="tcp:93904:9"/>of
+<hi>Babylon</hi> the whore <hi>&amp;c.</hi> But his Argu<g ref="char:EOLhyphen"/>ments are as impotent
+as his Obloquy, the naming of which is confutation enough, at leaſt, if the
+Reader will but turn his negatives into affirma<g ref="char:EOLhyphen"/>tives, and his affirmatives
+into nega<g ref="char:EOLhyphen"/>tives, the weakneſs of the man, and his manner of arguing will be
+mani<g ref="char:EOLhyphen"/>feſt to all.</p>
+            <p>As Firſt, when he ſays we are not to account the Ceremonies
+matters of ſmall importance] contrary to the ſenſe of ours, and all the
+Reformed Churches which account them things indifferent and not worth the
+contending for. Secondly, Let not (ſays he) the pre<g ref="char:EOLhyphen"/>tence of peace and unity
+cool your fer<g ref="char:EOLhyphen"/>vour, or make you ſpare to oppoſe your ſelves to thoſe
+idle and Idolized Cere<g ref="char:EOLhyphen"/>monies] contrary to the Text, and to <hi>Rom.</hi>
+14.17. Thirdly, beware alſo you be not deceived with a pretence of the
+Churches conſent, and of Unifor<g ref="char:EOLhyphen"/>mity, as well with the ancient Church as with
+the now Reformed Churches in the forms and cuſtoms of both] as if the
+conſent of the Ancient Church before Popery, and all the Reformed ſince,
+were one of the ſnares to be <pb facs="tcp:93904:10"/>avoided. Fourthly, moreover,
+becauſe the foredeck and hindeck of all our oppoſites probations, do
+reſolve and reſt finally into the authority of a law— therefore we
+certiorate you with <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> that <hi>Si acquieviſtis imperio,
+peſſimo laqueo vos induiſtis</hi>] as if there were no difference between
+the eſtabliſhing of iniquity by a Law (of which <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> ſpeaks)
+and the laws of our Supe<g ref="char:EOLhyphen"/>riors for— decency and order. Fifth<g ref="char:EOLhyphen"/>ly, do not
+reckon it enough to bear within the incloſure of your ſecret thoughts, a
+certain diſlike of the Ce<g ref="char:EOLhyphen"/>remonies, 
+<note place="margin">
+                  <hi>Contrary to S.</hi> Paul, Ro. 14.22</note>
+and other abuſes now ſet on foot; except by profeſſion and action you
+evidence the ſame, and ſo ſhew your Faith by your fact: principally
+prayers and ſupplications are the wea<g ref="char:EOLhyphen"/>pons of our Spiritual warfare, but as
+they ought to be done, ſo the atchiev<g ref="char:EOLhyphen"/>ing of other ſecundary means, ought
+not to be left undone. Theſe are the chief of his arguments, which he ſums
+up in the Epiſtle dedicated to all and every one in the Reformed Churches of
+<hi>England, Scotland</hi> and <hi>Ireland,</hi> and you may judge by theſe,
+of the validity of the whole Book which <pb facs="tcp:93904:10"/>conſiſts of 336.
+pages, wherein is no<g ref="char:EOLhyphen"/>thing objected, or aſſerted, but what hath been
+abundantly confuted by co<g ref="char:EOLhyphen"/>gent reaſons and arguments. After this
+<hi>Scottiſh</hi> Pipe march many <hi>Engliſh</hi> Re<g ref="char:EOLhyphen"/>formado's headed by
+Dr. <hi>Owen,</hi> whoſe chief objection is, 
+<note place="margin">
+                  <hi>Evangeli<g ref="char:EOLhyphen"/>cal love. p.</hi> 212.</note> that
+the ceremonies are unwritten and unſcriptural inven<g ref="char:EOLhyphen"/>tions of Men, and that
+<hi>Chriſt</hi>'s war<g ref="char:EOLhyphen"/>rant and authority muſt be ſhewn, for what is
+impoſed in the worſhip of God. The ridiculouſneſs of this objection
+hath been clearly demonſtrated by the Reverend Biſhop <hi>Sanderſon;</hi>
+and others. Then Mr. <hi>Hickman</hi> ſends forth his A<g ref="char:EOLhyphen"/>pology, and his
+<hi>Bonaſus Vapulans,</hi> who inveighs againſt the ceremonies,
+eſpe<g ref="char:EOLhyphen"/>cially for being ſignificant, and inſtan<g ref="char:EOLhyphen"/>ceth in the ſign of the
+Croſs, which is made a ſign of dedication to God, in Token that
+<hi>&amp;c.</hi> Whereas others of his party do oppoſe them, becauſe they
+are not ſignificative enough.</p>
+            <p>To him ſucceeds the Author of the <hi>Reherſal,</hi> who
+ſays that the Confor<g ref="char:EOLhyphen"/>miſts defining a Sacrament to be an outward and
+viſible ſign of an inward and ſpiritual grace (Omitting the chief part of
+the definition [<hi>viz.</hi> ordained <pb facs="tcp:93904:11"/>by <hi>Chriſt</hi>
+himſelf]) do make the cere<g ref="char:EOLhyphen"/>monies of a Sacramental nature. To theſe the
+learned <hi>Ritchel</hi> in his Tract <hi>de Ceremoniis,</hi> gives
+ſatisfactory an<g ref="char:EOLhyphen"/>ſwers to all unprejudiced Readers, and <hi>Durel,
+Parker</hi> 
+               <note n="*" place="margin">Mr. <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> &amp; Mr.
+<hi>Baxter</hi> have done the ſame. 41.61. p. 90, 454.</note>, and others
+have done no leſs. It will be but labour in vain, to repeat here all the
+ſolid replies to thoſe empty objections. One ſuch ar<g ref="char:EOLhyphen"/>gument from
+Scripture, as our Savi<g ref="char:EOLhyphen"/>our urgeth in the Text, againſt thoſe that on
+pretence of contending for their own, againſt the eſtabliſhed rites and
+cuſtomes of the Church, do vio<g ref="char:EOLhyphen"/>late the laws of Obedience, Love, and Peace,
+will ſilence them all, if they be not poſſeſt with a ſpirit of
+contradi<g ref="char:EOLhyphen"/>ction. For if we ſhould ſuppoſe that the rites and ceremonies
+were as expreſly ſet down in the Goſpel to be uſed, or forborn in the
+publick worſhip of God, as the rites and circumſtances concern<g ref="char:EOLhyphen"/>ing
+Sacrifices, were in the ceremonial law: yet as the Sacrifices themſelves,
+much more the modes of preparing and offering them, might be uſed or omitted,
+for the performance of moral duties; ſo doubtleſs, if things of an
+ex<g ref="char:EOLhyphen"/>ternal, ceremonial nature, had been <pb facs="tcp:93904:11"/>commanded, or forbidden in
+expreſs terms, they might yet be obſerved, or omitted, as the
+ſubſtantial ſervice of God, and obedience to his greater com<g ref="char:EOLhyphen"/>mands, for
+charity and peace might be beſt performed. But theſe things be<g ref="char:EOLhyphen"/>ing not
+determined particularly by the Goſpel, but left under general rules, for
+decency and order, may doubtleſs be determined by a lawful authority, ſuch
+as that of our Church, under our Gracious Soveraign, is, and being ſo
+determined and impoſed, there is an advantage on the ſide of Authority,
+againſt a ſcrupulous conſcience, which ought to over rule the practice of
+ſuch who are members of that Church. It remains only that I endeavour to
+re<g ref="char:EOLhyphen"/>move an objection or two againſt what is here ſaid.</p>
+            <p>
+               <hi>Object.</hi> 1. If the ceremonies be things of ſuch
+indifferency, Why do not they who are in authority, diſpenſe with the uſe
+of them, or totally lay them aſide for the ſake of peace and unity?</p>
+            <p>
+               <hi>Anſw.</hi> 1. The Magiſtrate doth but his duty in
+providing for the ſolemnity of Divine worſhip, according to thoſe general
+rules for decency and order <pb facs="tcp:93904:12"/>preſcribed by the Apoſtles.
+2<hi>ly,</hi> What the Magiſtrate doth, is not only agree<g ref="char:EOLhyphen"/>able to his private
+diſcretion and con<g ref="char:EOLhyphen"/>ſcience, (for he practiſeth the ſame things that he
+preſcribes) but accord<g ref="char:EOLhyphen"/>ing to the deliberate determinations of the moſt
+wiſe and pious perſons of the Nation, in their ſolemn Aſſemblies, and
+doubtleſs (as St. <hi>Ambroſe</hi> wrote to St. <hi>Auguſtine</hi>) if
+they had known any thing better, they would have practi<g ref="char:EOLhyphen"/>ſed that.
+3<hi>ly,</hi> It will very much im<g ref="char:EOLhyphen"/>pair the authority and reputation of
+Magiſtrates, ſo to comply with the im<g ref="char:EOLhyphen"/>portune clamours of ſcrupulous
+per<g ref="char:EOLhyphen"/>ſons, as to alter or abrogate their laws and conſtitutions, as oft as
+diſcontent<g ref="char:EOLhyphen"/>ed or ſeduced perſons ſhall demand it. And though it be very
+uncertain that the craving party will be ſatisfied, when they are indulged in
+all that they deſire, yet it is certain that others will be incouraged to
+make new ſup<g ref="char:EOLhyphen"/>plications, and ſo create perpetual di<g ref="char:EOLhyphen"/>ſturbances. And the
+gratifying of a few weaklings, or male-contents, may give juſt cauſe of
+offence, to a greater and better party, who are deſirous to worſhip God in
+the beauty of holineſs, <pb facs="tcp:93904:12"/>and are really grieved at the
+irreve<g ref="char:EOLhyphen"/>rence and diſorders which are, and have been too obſervable in the
+Meet<g ref="char:EOLhyphen"/>ings of diſſenting parties. 4<hi>ly,</hi> Here<g ref="char:EOLhyphen"/>by the Magiſtrate
+ſhould tacitly con<g ref="char:EOLhyphen"/>feſs himſelf guilty of all thoſe accuſati<g ref="char:EOLhyphen"/>ons that
+have been charged upon him, and his predeceſſors, of impoſing un<g ref="char:EOLhyphen"/>lawful,
+ſuperſtitious and <hi>Popiſh</hi> cere<g ref="char:EOLhyphen"/>monies, and perſecuting the
+godly and conſcientious people, that could not conform to them. And
+5<hi>ly,</hi> It would greatly defame thoſe worthy Martyrs, who not only
+thought fit to retain them, and gave cogent arguments for the lawful uſe of
+them, but ſealed the eſtabliſhed worſhip and diſcipline with their
+bloud, not only in the <hi>Marian</hi> days, but under the late Uſurpation
+alſo. 6<hi>ly,</hi> It is an unreaſonable thing, to demand that, which they
+themſelves would deny, if they were in the Magi<g ref="char:EOLhyphen"/>ſtrates place; for let me
+ask them, whether they, being well perſwaded of their diſcipline and order
+(<hi>viz.</hi> that it is agreeable to the Word of God, to antiquity and
+reaſon) would comply with the deſires of diſſenting parties, to make
+ſuch alterations, as ſhould from <pb facs="tcp:93904:13"/>time to time be required by
+others, contrary to their own judgments and conſciences? and to this we need
+no other anſwer, than the practice of the Objectors, when they were in
+Autho<g ref="char:EOLhyphen"/>rity. And who can doubt, but that they, who being ſubjects, do
+aſſume to themſelves a power of directing and preſcribing to the
+Magiſtrate, if they were in the Magiſtrates place would take it very ill to
+be directed by their Subjects. 7<hi>ly,</hi> If the eſtabliſhed cere<g ref="char:EOLhyphen"/>monies
+were removed, others of a like nature would ſucceed, as unſcriptural, and
+ſymbolical as they, (ſuch as ſitting at the Sacrament, and lifting up the
+hands to Heaven,) it being impoſſible almoſt to perform divine ſervice,
+with any decency, without ſuch: and ſeeing that for many centuries of the
+Primi<g ref="char:EOLhyphen"/>tive Church, wherein other ceremo<g ref="char:EOLhyphen"/>nies have been complained of by Saint
+<hi>Auguſtine,</hi> and others, no man ever objected againſt the ceremonies
+which are uſed in our Church, and which were by thoſe famous Reformers and
+Martyrs retained in our Liturgy, it is no argument of a meek or quiet ſpirit,
+to make objections, and cauſe diviſions <pb facs="tcp:93904:13"/>upon pretence of
+Superſtition in the Liturgy and ceremonies, and to ex<g ref="char:EOLhyphen"/>pect that the Church to
+ſalve their re<g ref="char:EOLhyphen"/>putation ſhould betray her own, and by abrogating her
+ſanctions, give the world more reaſon than yet hath been given, to believe,
+that the Church of <hi>England,</hi> even from the firſt Reforma<g ref="char:EOLhyphen"/>tion, hath
+been in a dangerous error, and the Factions that oppoſed her, have had truth
+and juſtice on their ſide.</p>
+            <p>In the ſecond Objection, Papiſts and Sectaries joyntly ſay,
+That other diſ<g ref="char:EOLhyphen"/>ſenters may as well juſtifie their ſepa<g ref="char:EOLhyphen"/>ration from us,
+on pretence of the Ce<g ref="char:EOLhyphen"/>remonies retained by our Church, as we can juſtifie our
+ſeparation from the Church of <hi>Rome</hi> by reaſon of the Ce<g ref="char:EOLhyphen"/>remonies
+injoyned by her. To which I ſhall not need to make any other an<g ref="char:EOLhyphen"/>ſwer, than
+a ſhort appeal to the Con<g ref="char:EOLhyphen"/>ſciences of all unprejudiced perſons, Whether
+the Church of <hi>England,</hi> re<g ref="char:EOLhyphen"/>quiring the uſe of three Ceremonies
+declared by her ſelf to be indifferent, and acknowledged by her enemies not
+to be unlawful, can be thought by any ſober perſon to give as great, and
+juſt a cauſe of Separation: from her, as all <pb facs="tcp:93904:14"/>that load of
+Superſtition in the Church of <hi>Rome,</hi> of which St.
+<hi>Auguſtine</hi> com<g ref="char:EOLhyphen"/>plained in his days, that the <hi>Jewiſh</hi> yoke
+was leſs heavy. To require Prayers in an unknown Tongue, and to Saints and
+Angels is doubtleſs more offenſive, than to uſe a ſolemn plain form of
+words, taken either from the Scripture, or the ancient Liturgies of the Church.
+What is the Surplice, Croſs in Baptiſm, and kneeling at the Sacrament for
+devotion, if compared to their Adoration of the tranſubſtan<g ref="char:EOLhyphen"/>tiated Hoſt,
+worſhipping of Images, in<g ref="char:EOLhyphen"/>vocation of Saints, their doctrines of the Popes
+Supremacy, and Infallibi<g ref="char:EOLhyphen"/>lity, of Purgatory and Indulgences, beſides the
+innumerable ceremonies daily practiſed by them? And as the Sectaries will not
+condemn the Church of <hi>England,</hi> for receding from theſe extreams,
+ſo neither can the <hi>Ro<g ref="char:EOLhyphen"/>maniſts</hi> blame her for want of modera<g ref="char:EOLhyphen"/>tion,
+in retaining both purity of Do<g ref="char:EOLhyphen"/>ctrine, and decency of Worſhip, and abhorring
+thoſe other extreams of Sa<g ref="char:EOLhyphen"/>criledge and profanation of holy things, of
+Rebellion and Bloud-ſhed, though under pretence of Religion, where<g ref="char:EOLhyphen"/>with 
+<pb facs="tcp:93904:14"/>both they and the Sectaries have defiled themſelves. It was the
+pious care of the Pilots of our Church, to conduct their Succeſſors
+(between the two rocks of Superſtition and Idolatry on one hand, and
+irreverence and irreligion on the other) in the ſame courſe in which (I
+hope we all be<g ref="char:EOLhyphen"/>lieve) they themſelves went to Hea<g ref="char:EOLhyphen"/>ven. And the Governors of
+the Church have ever ſince taken caution of all its Miniſters, not to
+depart from the ſame, either in their publick mini<g ref="char:EOLhyphen"/>ſtrations or doctrines,
+ſo that the peo<g ref="char:EOLhyphen"/>ple need not doubt of their ſecurity in ſuch good old
+ways, wherein, as the ancient <hi>Martyrs</hi> did, they may even in the
+midſt of outward troubles, find peace in their Souls. But as for thoſe that
+give themſelves up to the gui<g ref="char:EOLhyphen"/>dance of Unſtable men, (who have degenerated
+not only from the mode<g ref="char:EOLhyphen"/>ration, and charity of the ancient Non<g ref="char:EOLhyphen"/>conformiſts,
+but even from their own principles, and neither are what they lately were, nor
+have given their follow<g ref="char:EOLhyphen"/>ers any ſecurity, that they will continue to be what
+now they are) They muſt needs be like children, toſſed to and 
+<pb facs="tcp:93904:15"/>fro with every wind of Doctrine, by the ſlight of men, and
+cunning crafti<g ref="char:EOLhyphen"/>neſs whereby they lye in wait to de<g ref="char:EOLhyphen"/>ceive. There are perhaps
+ſome weak perſons among us, whoſe Conſciences are really offended at
+the uſe of our Ceremonies, theſe we ought to regard ſo far, that if it
+were in our power, we ſhould rather omit the uſe of the Cere<g ref="char:EOLhyphen"/>monies, than
+give them offence. But as we are forbid to give any offence to pri<g ref="char:EOLhyphen"/>vate
+perſons, ſo much more to the Church of God, 
+<note place="margin">1 <hi>Cor.</hi> 10.32.</note> by our
+diſobedience. And whereas thoſe that have real ſcruples of Conſcience
+will be diligent to enquire, and ready to receive ſatis<g ref="char:EOLhyphen"/>faction, from their
+more learned Bre<g ref="char:EOLhyphen"/>thren, it cannot be preſumed that there are many ſuch
+among us, who have the arguments and examples of the firſt Reformers and
+<hi>Martyrs,</hi> the fence and Harmony of the Reformed Churches abroad, the
+deliberate con<g ref="char:EOLhyphen"/>ſtitutions of the Church and State at home, to inſtruct them
+in the neceſſi<g ref="char:EOLhyphen"/>ty of Obedience in ſuch indifferent things; and if weak
+perſons will at<g ref="char:EOLhyphen"/>tend rather to the wicked ſuggeſtions of a few
+diſcontented and turbulent <pb facs="tcp:93904:15"/>men, <hi>Qui obſtruunt pectora
+hominum, ut ante nos odiſſe incipiant, quam noſſe,</hi> that ſo Lord
+it over the Conſciences of weak perſons, as to make them hate their
+Brethren, they know not for what; if they neglect to hear the Church, and
+deſpiſe inſtruction, and chooſe their own deluſions, they are no
+longer weak Brethren, 
+<note place="margin">
+                  <hi>See</hi> Calv. <hi>Inſtitut. l.</hi> 3.
+<hi>c.</hi> 19. <hi>S.</hi> 11.</note> but reſolved adverſaries, and of
+ſuch Chriſt ſays, <hi>Matth.</hi> 15.14. <hi>Let them alone, they be
+blind Leaders of the blind.</hi> And that moſt diſſenters among us are of
+this kind, may appear from that ready conformity, which they practiſed
+be<g ref="char:EOLhyphen"/>fore the late Indulgence, and ſince that upon the teſt, which argues,
+their revolt to proceed from humor, or in<g ref="char:EOLhyphen"/>tereſt rather than from
+Conſcience. And as Mr. <hi>Calvin</hi> ſays, 
+<note place="margin">
+                  <hi>S.</hi> 13.</note> If ſuch weak perſons
+never grow ſo ſtrong as to digeſt inoffenſive and ſlender food, it is
+certain they were never well nurſed with Milk. I conclude therefore with
+<hi>Peter Martyr:</hi> 
+               <note place="margin">
+                  <hi>Loc. Com.</hi> 2. <hi>l.</hi> 4. <hi>c.</hi>
+32.</note> We muſt not always yield to the weak in things indifferent, but
+ſo long only, until they have been well inſtructed, after which, if they
+are ſtill ſcrupulous, their infirmity <pb facs="tcp:93904:16"/>deſerves no farther
+reſpect, for then 'tis not <hi>Scandalum puſillorum ſed
+Pha<g ref="char:EOLhyphen"/>riſaeorum.</hi> 
+               <note place="margin">Calv. <hi>ubi ſupra S.</hi> 12.</note> And the
+Church hath a neceſſity of vindicating her liberty when by the unjuſt
+actions of falſe Apoſtles it is queſtioned and indanger<g ref="char:EOLhyphen"/>ed in the
+Conſciences of her weak Children.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:93904:16"/>
+            <head>MISERICORDIAM VOLO: <hi>OR, THE PHARISEES</hi> LESSON.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matth. ix. 13.</hi>
+                  </bibl> 
+                  <p>But go ye, and learn what that meaneth, I will have Mercy, and
+not Sacrifice.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>O find the genuine ſenſe of theſe words, it will be
+con<g ref="char:EOLhyphen"/>venient to conſult the Con<g ref="char:EOLhyphen"/>text, from <hi>v.</hi> 9. where our Saviour
+calls <hi>Matthew,</hi> a Publican of no ſmall reputa<g ref="char:EOLhyphen"/>tion and wealth, to
+follow him who had not a houſe where to reſt his head. A ſtrange ef<g ref="char:EOLhyphen"/>fect
+(by virtue of two words) wrought on <pb n="2" facs="tcp:93904:17"/>ſuch a Subject; of
+which we are obliged to ſay ſomething, <hi>Ne arreptitiam &amp;
+enthyſiaſti<g ref="char:EOLhyphen"/>cam converſionem expectemus,</hi> (ſaith <hi>Janſenius in
+Locum</hi>) leſt we alſo ſhould expect (what too many pretend unto) an
+inſtantaneous and impulſive power to work irreſiſtibly upon us for our
+Converſion. <hi>Julian</hi> and <hi>Porphyry</hi> do both object this very
+inſtance, to overthrow the credit of the Goſpel, as if the whole Hi<g ref="char:EOLhyphen"/>ſtory
+of it were fictitious and falſe, or at leaſt to prove that they were no
+other than giddy and fanatick perſons, that followed our Savi<g ref="char:EOLhyphen"/>our: 
+<note place="margin">In locum.</note> Of this S. <hi>Hierome</hi>
+takes notice, and an<g ref="char:EOLhyphen"/>ſwers thus, <hi>Fulgor ipſe &amp; Majeſtas
+Divini<g ref="char:EOLhyphen"/>tatis occultae, quae etiam in humanâ facie reluce<g ref="char:EOLhyphen"/>bat, ex primo ad
+ſe videntes-trahere poterat a<g ref="char:EOLhyphen"/>ſpectu. Si enim in magnete, &amp;c.</hi>
+            </p>
+            <p>But this reply is not thought ſufficient by learned Men, to
+ſilence the objection, to which it is anſwered more ſatisfactorily, as
+followeth. That <hi>S. Matthew</hi> was brought up in the <hi>Jewiſh</hi>
+Religion, wherein that he was a good proficient, appears, as from many
+paſſages in that Goſpel, ſo eſpecially by the <hi>Hebrew</hi> Tongue,
+wherein he wrote it. In his time the coming of the <hi>Meſſias</hi> was
+generally ex<g ref="char:EOLhyphen"/>pected by that Nation, and our Saviour ha<g ref="char:EOLhyphen"/>ving entred on his
+publick Office, proclaims himſelf to be that <hi>Meſſias,</hi> and proves
+it, not only by the Divine Doctrine which he taught, but by the Miracles
+wrought by him, ſuch as no other Man did. One was newly effected on the
+Paralytick Man, <hi>v.</hi> 2d. whoſe bodily Diſ<g ref="char:EOLhyphen"/>eaſe <pb n="3" facs="tcp:93904:17"/>being cured by two words, <hi>Ariſe,</hi> and <hi>walk,</hi> was
+applyed by our Saviour to per<g ref="char:EOLhyphen"/>ſwade the People, that he could as eaſily and
+graciouſly pardon their ſins. Now St. <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> living in
+<hi>Capernaum</hi> where this was done, could not be ignorant of the fact, nor
+can we probably ſuppoſe him negligent, to certifie himſelf of the real
+truth of that and other Mi<g ref="char:EOLhyphen"/>racles, which our Saviour wrought in
+<hi>Caper<g ref="char:EOLhyphen"/>naum;</hi> and comparing the predictions of the Prophets, (with which
+he was well acquainted) with the ſeveral circumſtances of the time and
+place, and the mighty deeds of the promiſed <hi>Meſſias,</hi> he was
+perſwaded to believe him to be the <hi>Christ;</hi> of which (it is alſo
+probable that) our Saviour more fully convinced him by ſome particular
+arguments, beſides the ge<g ref="char:EOLhyphen"/>neral Doctrine which he taught in that City,
+although only the cloſe of that Diſcourſe be recorded; ſo that he was
+not converted as St. <hi>Paul</hi> was, by a Miracle from Heaven, but by the
+ordinary rational method, by which it plea<g ref="char:EOLhyphen"/>ſeth God to draw other ſinners
+to himſelf, 
+<note place="margin">Acts 26.18</note> 
+               <hi>O<g ref="char:EOLhyphen"/>pening their eyes, and
+turning them from dark<g ref="char:EOLhyphen"/>neſs unto light, and from the power of Satan un<g ref="char:EOLhyphen"/>to
+God.</hi> It is no 
+<note n="*" place="margin"> Thus we find that <hi>Xenophon</hi>
+became the Diſciple of <hi>Socrates;</hi> for meeting him in a narrow
+paſ<g ref="char:EOLhyphen"/>ſage, <hi>Xenophon</hi> asked him this ſhort queſtion,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>(i.)</hi> How the neceſſaries of life might be
+obtained? to which having anſwered ſatisfactorily, he demand<g ref="char:EOLhyphen"/>ed again,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>(i.)</hi> Where Men might be made good and virtuous?
+<hi>Socrates</hi> anſwered, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>(i.)</hi> Come and
+learn, whereupon <hi>Xenophon</hi> follow<g ref="char:EOLhyphen"/>ed him, and became his Diſciple.
+<hi>Diog. Laertius in vitá Xeno<g ref="char:EOLhyphen"/>phont.</hi>
+               </note> wonder then, that
+Saint <pb n="4" facs="tcp:93904:18"/>
+               <hi>Matthew</hi> follows ſuch an effectual call, and
+without farther conſultation with fleſh and bloud, leaves all and follows
+his Saviour. We ſay not then that our Converſion is the work of an
+inſtant, nor that it comes with ſuch ob<g ref="char:EOLhyphen"/>ſervation, that we can ordinarily
+point at the time and place, and ſay, <hi>Lo here,</hi> or <hi>loe there</hi>
+it was; the work is done gradually, and not in a moment, rationally and not
+violently, in a ſoft calm voice, and not in a Whirlwind, that carries us
+irreſiſtibly, and in a manner unac<g ref="char:EOLhyphen"/>countable, to an eſtate of grace.
+Whatever impulſes ſome Men may have on their ſpirits, to believe
+themſelves thus ſanctified, they will find at laſt that God was not in
+that Wind, for although it be violent, it is not long, and though it might
+ſhake the heart, yet it doth not ſweep it, it is a work of time and
+Chri<g ref="char:EOLhyphen"/>ſtian circumſpection, to <hi>make our calling and election
+ſure.</hi> St. <hi>Matthew</hi> having found the <hi>Meſſias,</hi> and
+become his Diſciple, partly in gratitude to his Saviour, and partly in
+charity to his neighbours, that they might partake of the ſame grace with
+himſelf, invites them to his Houſe, where, as St. <hi>Mark</hi> ſays, Ch.
+2.15. <hi>As Jeſus ſate at meat, many publicans and ſinners ſate alſo
+with Jeſus, and his Diſciples.</hi> The <hi>Phariſees</hi> obſerving
+our Saviour too fa<g ref="char:EOLhyphen"/>miliar (as they thought) with Publicans and ſinners,
+inſinuate this objection to his Diſci<g ref="char:EOLhyphen"/>ples, <hi>Why eateth your Maſter
+with Publicans and Sinners?</hi> v. 11. To this our Saviour re<g ref="char:EOLhyphen"/>plyeth by a
+three-fold Argument; The firſt of <pb n="5" facs="tcp:93904:18"/>Reaſon, in a
+proverbial ſpeech, <hi>The whole need not the Phyſician, but they that are
+ſick:</hi> The 2d. from Scripture, <hi>I will have mercy, and not
+ſacrifice:</hi> The 3d. from the end of his coming, which was, <hi>not to
+call the Righteous, but Sinners to repentance.</hi> The Text is the ſe<g ref="char:EOLhyphen"/>cond
+of theſe Arguments, and I cannot omit a ſhort remark upon our Saviour's
+Preface; for, whereas he converſed in a familiar manner with the Publicans
+and Sinners, he turns off the Phariſees, who pretended to more know<g ref="char:EOLhyphen"/>ledge and
+piety than others, with an imputati<g ref="char:EOLhyphen"/>on of Ignorance, and Uncharitableneſs,
+<hi>faceſ<g ref="char:EOLhyphen"/>ſite,</hi> Get you home, and ſtudy your own duty to God, and
+your neighbours, and trouble not your ſelves or others about ſuch niceties
+of the Law. Go learn what that meaneth, <hi>&amp;c.</hi> By Mercy we are to
+underſtand, <hi>Quicquid humanitatis fratri debemus,</hi> all thoſe offices
+of Humanity, or Chriſtianity, which we owe to our ſelves or Brethren,
+whether in reſpect of their Souls, or Bodies, goods, or good names; and by
+Sacrifice (which being the chief part of God's publick Worſhip among the
+<hi>Jews,</hi> is put for the whole) <hi>Totum externum cultum,</hi> all the
+Paedagogy of the <hi>Jewiſh</hi> Diſcipline, of which only the Phariſees
+were zealous, to the neglect of the weightier matters of the Law, Judgment,
+Mercy, and Faith: And now I ſhall need onely to intreat you to read over the
+whole Verſe in <hi>Hoſea</hi> 6.6. from whence the Text is taken, for a
+full expoſition of it, where it is thus written, <hi>I deſired mercy, and
+not ſa<g ref="char:EOLhyphen"/>crifice, <pb n="6" facs="tcp:93904:19"/>and the knowledge of God, more than
+burnt-offerings;</hi> the latter part whereof, be<g ref="char:EOLhyphen"/>ing exegetical of the former
+gives us this ſenſe, <hi>I deſired mercy, more than ſacrifice,</hi> for
+the <hi>Hebrews</hi> wanting the termes of compariſon, do uſe the negative,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or the pre<g ref="char:EOLhyphen"/>poſition
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſignifieth <hi>prae,</hi> as in <hi>Pro<g ref="char:EOLhyphen"/>verbs</hi>
+8.10. <hi>I deſired inſtruction,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>and not
+ſilver; and knowledge</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>rather than fine
+gold:</hi> where the negative is not ex<g ref="char:EOLhyphen"/>cluſive, but comparative, for when
+two things come into compariſon, it is uſual with the <hi>He<g ref="char:EOLhyphen"/>brews,</hi> to
+deny of that which is leſs, and to affirm of that which is more excellent.
+And this may help us to underſtand many places of Scripture, which without
+this knowledge of the <hi>Hebrew Idiom,</hi> ſeem very difficult, as
+<hi>Je<g ref="char:EOLhyphen"/>remy</hi> 7.22. <hi>I ſpake not to your Fathers concer<g ref="char:EOLhyphen"/>ning
+burnt-offerings and ſacrifices but this thing commanded I them,</hi>
+ſaying, <hi>Obey my voice, and I will be your God, and ye ſhall be my
+People,</hi> which cannot be underſtood, as if God had not commanded them
+concerning Sacrifices, but that he did not require them chiefly, or
+principally; Obedience being the duty which was moſt aimed at: So in the New
+Teſtament. <hi>John</hi> 7.16. <hi>My Doctrine is not mine, but his that
+ſent me:</hi> 
+               <note place="margin">1 Cor. 1.17.</note> So St. <hi>Paul</hi> ſays,
+<hi>Chriſt ſent me not to baptize, but to preach the Goſpel;</hi> and
+<hi>Rom.</hi> 9.16. <hi>It is not in him that willeth, nor in him that runneth,
+but in God that ſheweth mer<g ref="char:EOLhyphen"/>cy;</hi> where our endeavours are not excluded,
+but the grace of God preferred. Sacrifice <pb n="7" facs="tcp:93904:19"/>then, as it
+imports the publick worſhip of God, is not excluded. God that made our Souls
+and Bodies, 
+<note place="margin">1 <hi>Cor.</hi> 6.20.</note> requires that we
+ſhould glorifie him in our Souls and in our Bodies which are his, and that we
+may ſerve him acceptably, he requireth outward reverence, 
+<note place="margin">
+                  <hi>Heb.</hi> 12.28.</note> as well as inward
+fear; and therefore to forſake the aſ<g ref="char:EOLhyphen"/>ſembling of our ſelves, or in our
+Aſſemblies not to uſe that ſolemn Unity and reverence which may
+manifeſt our awful apprehenſions of that great Majeſty, with whom we have
+to do, and which may add a beauty to holineſs, is a gloſs beſides this
+Text, as if God had ſaid, <hi>Sacrificium nolo,</hi> I eare not whether ye
+worſhip me publickly or no, whether it be at <hi>Jeruſalem,</hi> or on
+mount <hi>Gerizim,</hi> whether ye keep my Sabbaths, and reverence my
+San<g ref="char:EOLhyphen"/>ctuary, whether ye agree in thoſe things which ye ſhall ask, or pray
+<hi>pro</hi> and <hi>con,</hi> or whether ye pray ſitting or ſtanding by
+your ſelves apart, as the <hi>Phariſee</hi> did, as if God were indeed the
+Author of confuſion, and not of Peace and Order.</p>
+            <p>Secondly, 
+<note place="margin">1 <hi>Cor.</hi> 14.33.</note> When God ſays
+<hi>Miſerioordiam volo,</hi> He doth not exclude Juſtice, for though his
+tender Mercy be over all his works, yet the Judge of all the earth will do
+right. Mer<g ref="char:EOLhyphen"/>cy and Judgment were the two great ſtrings that ſounded ſo
+harmoniouſly in <hi>Davids</hi> Harp, <hi>Pſal.</hi> 101.1. God requireth
+of us, firſt to do juſtice, and then to love mercy, <hi>Micah</hi> 6.8. If
+private perſons may defend their juſt rights, without violation of the
+rules of Charity, <pb n="8" facs="tcp:93904:20"/>much more may ſuch as are publick
+perſons, who may not ſhew mercy, but with a <hi>Salvo</hi> to the publick
+peace and truth. By the Laws of God and man we are to give the precedence to
+acts of Juſtice, before the works of Mercy. He doth not hate his fleſh,
+that ſuffers a gan<g ref="char:EOLhyphen"/>green'd member to be cut off, 
+<note place="margin">
+                  <hi>Gal</hi> 5.12.</note> 
+               <hi>I wiſh they were
+even cut off that trouble you,</hi> ſays the meekeſt Apoſtle. When
+particular offenders grow obſtinate, and incorrigible, it is an act of Mercy
+to make them a Sacrifice to the pub<g ref="char:EOLhyphen"/>lick juſtice. If the offence be not
+capital, his puniſhment may be a means to reclaim him; if it be, the example
+of his ſufferings may de<g ref="char:EOLhyphen"/>ter others from the like ſins, when <hi>they
+ſhall hear, 
+<note place="margin">
+                     <hi>Deutr.</hi> 13.11.</note> and fear and do no
+more ſo wickedly:</hi> and ſo it may prove a means of preventing the
+judgments of God from falling down upon the Land. 
+<note place="margin">
+                  <hi>Pſal</hi> 59.5.</note> God himſelf will
+not be merciful to them that offend of malicious wickedneſs, though he have
+ſaid <hi>Miſericordiam volo,</hi> I will have mercy, <hi>&amp;c.</hi> Which
+words commend unto us this ſeaſonable and neceſſary inſtructi<g ref="char:EOLhyphen"/>on,
+that</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label> To be buſie and ſcrupulous about the
+ex<g ref="char:EOLhyphen"/>ternal worſhip of God, to the neglect of mo<g ref="char:EOLhyphen"/>ral duties to God and our
+Brethren, is a <hi>Pha<g ref="char:EOLhyphen"/>riſaical</hi> temper, contrary to the Will of God.</p>
+            <p>For the proof of which poſition, I ſhall weigh Mercy and
+Sacrifice in the ballance of the Sanctuary, that you may clearly ſee of what
+different eſteems they are in the ſight of <pb n="9" facs="tcp:93904:20"/>God. And
+firſt, of Sacrifice, whoſe Anti<g ref="char:EOLhyphen"/>quity might juſtly gain a great
+veneration among that people; for though I do not think it as ancient, as the
+ſtate of Innocency, (as <hi>Bel<g ref="char:EOLhyphen"/>larmine</hi> and <hi>Greg. de Valentia</hi>
+(the better to countenance their Sacrifice of the Maſs) do affirm,
+<hi>Bellar. de miſſâ l.</hi> 1. <hi>c.</hi> 20. <hi>Valent. de
+miſſae Sacrif. l.</hi> 1. <hi>c.</hi> 4.) yet it is almoſt as old as
+<hi>Adam,</hi> who taught his Sons to offer both of the fruits of the earth,
+and the fatlings of the Flock, which was done, as ſome learned men affirm,
+immediately upon that Covenant made to the promiſed ſeed, which was
+ſolem<g ref="char:EOLhyphen"/>nized by Sacrifices, as the Apoſtle intimates, <hi>Hebr.</hi> 9.18.
+&amp; 22. And the Skins wherewith we find <hi>Adam</hi> and <hi>Eve</hi>
+clothed, ſhortly after the fall, and which were afterward made the Prieſts
+portion, <hi>Levit.</hi> 8.8. were given them by God, (he having firſt had
+the fleſh in Sa<g ref="char:EOLhyphen"/>crifice) to be <hi>Symbolum propitiationis</hi> a ſign of
+that Propitiation by which their ſins were covered.</p>
+            <p>Secondly, Sacrifices were of greater eſteem for their
+Inſtitution, than their Antiquity, God himſelf having commanded the
+ſeveral ſorts of them, and the particular circumſtan<g ref="char:EOLhyphen"/>ces concerning them.
+As firſt the Peace-offering, for the fruits of the earth. Se<g ref="char:EOLhyphen"/>condly, the
+Sin-offering, for Atonement and pardon of Tranſgreſſions. Thirdly, the
+Burnt-offering, as an acknowledgment of Homage to God the Soveraign Lord of
+all. The book of <hi>Leviticus</hi> is but a Directory for theſe.</p>
+            <pb n="10" facs="tcp:93904:21"/>
+            <p>Thirdly, They were very conſiderable for their uſefulneſs.
+Firſt, as they were to be <hi>Signa innocentiae,</hi> teſtimonies and
+declarations of Innocency. For as the creatures offered unto God ought to be
+only ſuch as were clean for their kind, ſo particularly they ought to be
+without ſpot or blemiſh; and no beaſts or birds of prey, but the Ox and
+the Lamb; the Tur<g ref="char:EOLhyphen"/>tle and the Dove, harmleſs and uſeful crea<g ref="char:EOLhyphen"/>tures only,
+muſt be brought to the Altar, and the offerer was to lay his hands on the
+beaſt, either to profeſs his innocence, that he was not guilty of bribes or
+of bloud, of fraud or vio<g ref="char:EOLhyphen"/>lence, or if he were, then to confeſs his ſins,
+and deprecate the wrath of God by virtue of that Covenant, whereof the
+Sacrifice was a teſti<g ref="char:EOLhyphen"/>mony, and ſo it was propitiatory. They were,
+Secondly, Euchariſtical pledges, and earneſts of their gratitude,
+expreſſing their readineſs to forgce all, or to return it to him from
+whom they received it. Thirdly, they were Admonitions to the guilty perſons,
+to repent of their ſins, or elſe that they muſt periſh as thoſe
+beaſts did.</p>
+            <p>Fourthly, By external Sacrifices they were minded of their
+internal duties, as <hi>mactare propriam voluntatem,</hi> to mortifie all
+beaſtly luſts and affections.</p>
+            <p>Fifthly, They were fences and boundaries to the Religion, God
+commanding the <hi>Jews</hi> to Sacrifice thoſe very beaſts which their
+Ido<g ref="char:EOLhyphen"/>latrous neighbours did worſhip (as the Ox, the Sheep, and Dove, which
+were worſhipped <pb n="11" facs="tcp:93904:21"/>as Gods, among the <hi>Egyptians</hi> and
+<hi>Zabii</hi>) to maintain a greater deteſtation of Idolatry in their
+hearts.</p>
+            <p>Sixthly, They were as ſo many penalties, and forfeitures, taken
+on that people upon every treſpaſs, which alſo ſerved, not only as a
+preſent puniſhment, but a future terror, minding them that they had
+forfeited their own lives and Souls, which God was pleaſed to ſpare,
+expecting better obedience, even a living Sacrifice.</p>
+            <p>And yet all this notwithſtanding, though Sacrifices were
+venerable for their Antiquity, more for their uſefulneſs, as well to the
+Re<g ref="char:EOLhyphen"/>ligion in general, as to the Reformation of particular perſons, but moſt
+of all, for its divine Inſtitution, the <hi>Levitical</hi> Law being but a
+Rubrick or directory for the Sacrifices, <hi>Miſericordiam volo, &amp;c. I
+will have mercy.</hi>
+            </p>
+            <p>For if hypocritical <hi>Jews</hi> ſhould have amaſ<g ref="char:EOLhyphen"/>ſed all
+theſe Sacrifices in one, as the Prophet <hi>Jer.</hi> 7.21. ſpeaks, <hi>Put
+your burnt-offerings to your Sacrifices and eat fleſh;</hi> If they ſhould
+go with their Flocks, and heards to ſeek the Lord, <hi>Hoſ.</hi> 5.6. If
+they ſhould have preſented a Sacrifice as magnificent as that of
+<hi>Solomon,</hi> 22000 Oxen, and 120000 Sheep; 
+<note place="margin">1 <hi>Kings</hi> 8.63.</note> If they ſhould
+have invented more coſtly ones, thouſands of Rams, and ten thouſand
+rivers of Oil, their firſt-born for their tranſgreſſion, the fruit of
+their bodies, for the ſin of their Souls; yet to do juſtice, and to love
+mercy, is preferred to them all, <hi>Mic.</hi> 6.8.</p>
+            <pb n="12" facs="tcp:93904:22"/>
+            <p>For though Sacrifices were commanded, yet not for any
+intrinſical goodneſs in them, but with reſpect to ſome greater good.
+<hi>Eze.</hi> 20.25. <hi>I gave them Statutes that were not good, and judgments
+whereby they ſhould not live,</hi> they were not originally good, as the
+duties of the Moral Law, theſe were commanded becauſe they were good, the
+other good only be<g ref="char:EOLhyphen"/>cauſe they were commanded, they did not make the Offerer,
+but he made them accepta<g ref="char:EOLhyphen"/>ble, as in the caſe of <hi>Cain</hi> and
+<hi>Abel.</hi> Thus God ſpeaks to wicked men, 
+<note place="margin">ver. 19, 20.</note> 
+               <hi>Pſal.</hi> 50. that
+gave their mouths to evil, and did ſit and ſpeak againſt their Brother
+and ſlander their own mothers ſon, <hi>I will not reprove thee for thy
+Sacrifices, or burnt-offerings, Offer to God Thanksgiving, &amp;c.</hi> And
+<hi>Pſal.</hi> 51.16. <hi>Thou deſireſt not Sacrifice, elſe would I
+give it thee. The Sacrifices of God, are a broken Spirit, a broken and a
+contrite heart, O God, thou wilt not deſpiſe. Solomon</hi> tells us [after
+that he had preſented that coſtly Sacrifice] <hi>To do juſtice and
+judgment, is more acceptable to the Lord than Sacrifice, Prov.</hi> 21.3. for
+it is true of the houſe of God, what he ſays of ours, <hi>Better is a dry
+morſel with quietneſs, than a houſe full of Sacrifices with ſtrife,
+Prov.</hi> 17.1. In this therefore, the young Scribe was better in<g ref="char:EOLhyphen"/>ſtructed
+than theſe Phariſees, for he conſented with our Saviour, <hi>Mark</hi>
+12.33. <hi>That to love the Lord, with all our heart,</hi> &amp;c. <hi>and our
+neighbours as our ſelves, is more than all whole burnt-offerings, and
+Sacrifice.</hi> In a word, our <pb n="13" facs="tcp:93904:22"/>Saviour hath told us, that
+whatever our gift be that we bring to the Altar, if we remem<g ref="char:EOLhyphen"/>ber, that our
+Brother hath ought againſt us, <hi>(i.)</hi> if we are conſcious of any
+injury, or unkindneſs, wherewith he may charge us, it is our duty to go
+firſt, and be reconciled to our Brother, before we preſume to offer our
+gift, though it be of prayer, or praiſe; God will never accept of a
+peace-offering, from them that live in enmity with their Brethren.</p>
+            <p>And now if I ſhould put into this ſcale, the whole Oeconomy of
+the <hi>Jewiſh</hi> diſcipline, their Oblations and Incenſe, their New
+Moons and Sabbaths, their calling of Aſſem<g ref="char:EOLhyphen"/>blies (for Feaſts or Faſts,)
+and their Prayers too, as <hi>Iſai.</hi> 1.11. they would for want of mercy
+be found too light. <hi>To what purpoſe are they?</hi> ſaith God,
+<hi>v.</hi> 11. <hi>Who hath required this at your hands?</hi> v. 12. <hi>Bring
+no more vain Oblations, incenſe is an abomination to me. I cannot away with
+it, it is iniquity even your ſolemn-meetings,</hi> ver. 13. they were
+eſteemed but mock ſervices by God, for want of mercy to their Brethren.</p>
+            <p>Two other inſtances I ſhall add, becauſe they ſeem of
+great weight.</p>
+            <p>Firſt, That of Circumciſion, which is cal<g ref="char:EOLhyphen"/>led Gods Covenant
+with <hi>Abraham</hi> by which he promiſed to be his God and the God of his
+ſeed, <hi>Gen.</hi> 17.10. and the Apoſtle-calls it a Seal of the
+Righteouſneſs of Faith, <hi>Rom.</hi> 4.11. And as God inſtituted it,
+ſo he commanded the obſervation of it by a ſevere Sanction. <hi>The
+<g ref="char:V">Ʋ</g>ncircumciſed was to be cut off, Gen.</hi> 17.14. <pb n="14" facs="tcp:93904:23"/>And
+the Rabbies tell us, that as God appoin<g ref="char:EOLhyphen"/>ted deſtroying Angels to that end,
+ſo he aſſign<g ref="char:EOLhyphen"/>ed guardian-Angels to every one that was Cir<g ref="char:EOLhyphen"/>cumciſed.
+Certain it is, that they bearing the marks and tokens of Gods Covenant in their
+fleſh, did boaſt themſelves to be Gods pecu<g ref="char:EOLhyphen"/>liar people. And as our
+Apoſtle intimates, they preferred it to the Croſs of Chriſt which the
+Apoſtle, though he himſelf was Circum<g ref="char:EOLhyphen"/>ciſed, abhors with an <hi>abſit,
+Gal.</hi> 6. ver. 14. But it was a ſaying among the <hi>Jews,</hi> that
+Cir<g ref="char:EOLhyphen"/>cumciſion was equal to the keeping of the whole Law, and that Heaven
+&amp; Earth could not ſtand if Circumciſion were omitted, therefore they
+made the eight days before Circumciſion to be a preparation for that
+ſolemnity at which they invited their friends as witneſſes and Sponſors
+for the child, that he ſhould obſerve the Sta<g ref="char:EOLhyphen"/>tutes of the God of
+<hi>Iſrael,</hi> and in the later times, had always an empty Chair ſet for
+<hi>Elias,</hi> expecting that he ſhould deſcend from Heaven to be a
+witneſs of the Circumciſion; and yet in truth it was as the Apoſtle
+ſaith, a a burthen which neither they nor their Fathers could bear, and
+therefore God himſelf diſpen<g ref="char:EOLhyphen"/>ſed with the uſe of it to this people
+forty years together in the wilderneſs; 
+<note place="margin">
+                  <hi>Acts</hi> 15.10.</note> and though St.
+<hi>Paul</hi> was Circumciſed, and to make his own and <hi>Timothy</hi>'s
+miniſtry the more acceptable to that people, 
+<note place="margin">
+                  <hi>Acts</hi> 16.1.</note> took <hi>Timothy</hi>
+and Circumciſed him, yet he teacheth them that if they were Circum<g ref="char:EOLhyphen"/>ciſed
+<hi>(i. e.)</hi> with an intention to obtain Sal<g ref="char:EOLhyphen"/>vation by the works of the
+Law, Chriſt ſhould <pb n="15" facs="tcp:93904:23"/>profit them nothing: And
+<hi>Galatians</hi> 6.15. (to them that were) <hi>in Christ Jeſus, neither
+circumciſion availed any thing, neither uncir<g ref="char:EOLhyphen"/>cumciſion, but a new
+creature;</hi> by which he underſtands, <hi>Gal.</hi> 5.6. <hi>faith which
+worketh by love:</hi> And in the 1 <hi>Cor.</hi> 7.19. <hi>a keeping the
+Commandments of God:</hi> ſo that circumciſion was not to be contended for,
+when the propa<g ref="char:EOLhyphen"/>gation of the Goſpel, or Charity came into competition with
+it.</p>
+            <p>A ſecond inſtance ſhall be that of the <hi>Jewiſh</hi>
+Sabbath, of the profanation whereof the <hi>Pha<g ref="char:EOLhyphen"/>riſees</hi> complained to
+Chriſt of his Diſciples, <hi>Matth.</hi> 12.2. and for whoſe vindication
+our Saviour urgeth again the right underſtanding of this Text, <hi>v.</hi> 7.
+<hi>If ye had known what this meaneth, I will have mercy and not ſacrifice,
+ye would not have condemned the guiltleſs.</hi> Ma<g ref="char:EOLhyphen"/>ny of Chriſt's
+Diſciples (as well as himſelf) were circumciſed, and ſo obliged to
+ſanctifie the Sabbath according to the Commandment, and great were the
+puniſhments which God threatned and inflicted on the tranſgreſſors,
+ſuch as ſtruck a terror to them, which made them run into ſuperſtition,
+inſomuch that they would not go out of their places, nor dreſs their meat,
+nor carry a ſtick, nor defend them<g ref="char:EOLhyphen"/>ſelves againſt their enemies on that
+day. And the crime for which the Diſciples were com<g ref="char:EOLhyphen"/>plained of, was rather
+for tranſgreſſing their tradition, than any precept of God; for if the
+fault was their walking through the Corn<g ref="char:EOLhyphen"/>fields, it doth not appear that they
+exceeded <pb n="16" facs="tcp:93904:24"/>2000. Cubits, which was allowed by them for a
+Sabbath-days Journey; if plucking the ears of Corn, that was approved by the
+Law, <hi>Deut.</hi> 23.25. If for eating (which ſeemeth moſt probable,
+becauſe our Saviour anſwered the objection by the inſtance of
+<hi>David</hi>'s eating the ſhew-bread) yet being hungry, their
+ne<g ref="char:EOLhyphen"/>ceſſity might excuſe them, nor was this for<g ref="char:EOLhyphen"/>bidden (though perhaps
+contrary to a ſuper<g ref="char:EOLhyphen"/>ſtitious practice of theirs, for which the Hea<g ref="char:EOLhyphen"/>then
+upbraided them, <hi>(i. e.)</hi> their Sabbath<g ref="char:EOLhyphen"/>days Faſts) therefore Chriſt
+vindicates them, as guiltleſs upon the Plea in the Text, <hi>I will have
+mercy, &amp;c.</hi> As if he had ſaid, You Pha<g ref="char:EOLhyphen"/>riſees do not underſtand
+the ſubſtantial and ſpiritual part of your own Law, for as long as there
+is not contumacy or contempt in the neglect of Ceremonial Precepts, but the
+ex<g ref="char:EOLhyphen"/>cuſe of a juſt neceſſity, or the rational conſi<g ref="char:EOLhyphen"/>deration of a
+greater good to out-weigh that neglect, God will not impute it as a ſin. Of
+this our Saviour convinceth them by the in<g ref="char:EOLhyphen"/>ſtance of <hi>David, v.</hi> 4.
+and of the Prieſts in the Temple, profaning the Sabbath by dreſſing the
+Sacrifices, for they were wont to ſay— <hi>In the Temple there is no
+Sabbath.</hi> If then the ſervice of the Temple excuſed the Prieſts for
+profaning the Sabbath; the ſervice of Chriſt who tells them of himſelf,
+that he was greater than the Temple, <hi>v.</hi> 6. might excuſe his
+Diſ<g ref="char:EOLhyphen"/>ciples, who being Prophets and Preachers of the Kingdom of Heaven, were
+greater than the Prieſts of the Law, as our Saviour ſaid of <hi>John</hi>
+the Baptiſt, <hi>Matth.</hi> 11.11.</p>
+            <pb n="17" facs="tcp:93904:24"/>
+            <p>Now a Prophet even under the Law, was above the Law of the Temple,
+and might ſa<g ref="char:EOLhyphen"/>crifice in any place, as <hi>Elias</hi> did, and therefore it
+could not be unlawful for Chriſt's Diſciples, ſo earneſtly attending
+his work, that they be<g ref="char:EOLhyphen"/>came hungry, having no other proviſion, to eat a few
+grains of Corn for their preſent re<g ref="char:EOLhyphen"/>lief. Again, our Saviour tells them,
+<hi>v.</hi> 8. that the Son of Man is Lord of the Sabbath, which that he
+ſpeaks of himſelf as the <hi>Meſſias</hi> (who had power to abrogate
+and alter the Sab<g ref="char:EOLhyphen"/>bath) is the opinion of ſome, though not ſo clear,
+becauſe <hi>Matth.</hi> 16.20. he would not have it yet known that he was the
+<hi>Meſſias,</hi> and if our Saviour had made this his argument he needed
+not to have uſed any other. Others therefore think that by the Son of Man is
+meant <hi>every Son of Man,</hi> for Chriſt himſelf was not blamed but his
+Diſciples, whom he pronounceth guiltleſs for this reaſon, <hi>The Son of
+Man is Lord of the Sabbath,</hi> which S. <hi>Mark</hi> expreſſeth more
+plainly to this purpoſe, <hi>Mark</hi> 2.27. <hi>The Sabbath was made for
+man:</hi> and ſo the argument ſtands thus, That which was made for another
+thing is to give place to that for which it was made, but <hi>the Sabbath was
+made for man, ergo, &amp;c.</hi> Now though the <hi>Jews</hi> were ſo
+ſuperſtitious, that even in the time of the <hi>Maccabees,</hi> they would
+not defend them<g ref="char:EOLhyphen"/>ſelves againſt their enemies on the Sabbath<g ref="char:EOLhyphen"/>day, yet
+ſhortly after they began to grow wi<g ref="char:EOLhyphen"/>ſer, and would not only deſend their
+own Lives, but aſſault their enemies, and do any <pb n="18" facs="tcp:93904:25"/>neceſſary work; for they had dearly been taught this Maxime,
+<hi>Periculum vitae diſſolvit Sabbatum,</hi> that the danger of loſing
+Life did diſſolve the Sabbath: And as <hi>Selden, de Jure Gentium, l.</hi>
+2. <hi>c.</hi> 10. they held that in caſe of ſickneſs, a <hi>Jew</hi>
+might not only eat forbidden Meats, but for recovery of health, or avoid<g ref="char:EOLhyphen"/>ance
+of any great danger, he might break any commandment, except theſe three,
+<hi>(viz.)</hi> I do<g ref="char:EOLhyphen"/>latry, Murther, and Inceſt; and I have heard from the
+mouth of a modern <hi>Jew,</hi> an odd in<g ref="char:EOLhyphen"/>terpretation of that Text,
+<hi>Pro.</hi> 4.4. which he interpreting the copulative, by a diſcretive;
+reads, <hi>Keep the commandments, but live;</hi> i. e. ſo keep the
+commandments, as to be careful of preſerving thy life in keeping of them. But
+to return in our Saviour's time, it was practi<g ref="char:EOLhyphen"/>ſed by them, as a thing lawful
+on the Sabbath<g ref="char:EOLhyphen"/>day, 
+<note place="margin">Luk. 13.15</note> to pluck an Oxe or an Aſs
+out of a Ditch, or to lead them to Water, and to permit Merchants and Carriers
+to travel about their neceſſary affairs on that Day. So that the ſum of
+all is this, that when two Laws ſeemed to interfere, ſo as both could not
+be kept, the leſ<g ref="char:EOLhyphen"/>ſer muſt yield to the greater, the ritual and
+ceremonial, to the moral or evangelical, which is the ſenſe of the Text:
+<hi>I will have mercy, and not ſacrifice.</hi>
+            </p>
+            <p>But it may be objected, What is this of the contention of the
+<hi>Jews</hi> for Ceremonies, to the contending of Chriſtians againſt them,
+when they are impoſed contrary to their Chri<g ref="char:EOLhyphen"/>ſtian liberty?</p>
+            <pb n="19" facs="tcp:93904:25"/>
+            <p>
+               <hi>Anſw.</hi> Theſe Objectors do no more un<g ref="char:EOLhyphen"/>derſtand their
+Chriſtian liberty, than the Pha<g ref="char:EOLhyphen"/>riſees did the right meaning of the Text,
+which equally concludes againſt them that contend a<g ref="char:EOLhyphen"/>gainſt Ceremonies, as
+them that contend for them, to the breach of Charity, Obedience, and Publick
+Peace, which as I have already proved againſt the <hi>Jews</hi> out of their
+Law, ſo I ſhall prove it <hi>(contra Gentes)</hi> againſt conten<g ref="char:EOLhyphen"/>tious
+Chriſtians out of the Goſpel. — Chri<g ref="char:EOLhyphen"/>ſtian liberty is the
+reſtoring of Mankind by Chriſt to ſuch an eſtate as it was in, before
+the Ceremonial Law was impoſed, ſo that now <hi>every Creature of God is
+good,</hi> 1 <hi>Tim.</hi> 4.4. <hi>nothing is of it ſelf unclean, Titus</hi>
+1.15. <hi>but all things are lawful,</hi> 1 <hi>Cor.</hi> 6.11. (i. e.) it is
+lawful for a Chriſtian to do thoſe things, a<g ref="char:EOLhyphen"/>gainſt which nothing of
+moment can be alledg<g ref="char:EOLhyphen"/>ed from the Scriptures, or right reaſon, to prove them
+unlawful. Thoſe Men therefore go the wrong way, and puzle their own and other
+Mens conſciences, who argue, It is not commanded, therefore I may not do it;
+where<g ref="char:EOLhyphen"/>as they ought to argue, It is not forbidden, therefore I may do it
+without prejudice to my Chriſtian liberty: although it may be truly ſaid,
+that it is commanded of God <hi>(in genere)</hi> from 1 <hi>Cor.</hi> 14.40.
+and <hi>(in specie)</hi> by autho<g ref="char:EOLhyphen"/>rity, to which we are bound to yield
+obedi<g ref="char:EOLhyphen"/>ence for conſcience ſake, not as if the com<g ref="char:EOLhyphen"/>mands of our Superiors
+did immediately bind the conſcience in ſuch caſes, but by vertue of God's
+commands for obedience to the higher <pb n="20" facs="tcp:93904:26"/>powers. The truth of
+all this will appear, from the Apoſtles own practice, <hi>Acts</hi> 15.28.
+who impoſed on the Primitive Chriſtians ſuch things, as were in their
+nature indifferent, to be obſerved as neceſſary, <hi>bono pacis,</hi>
+ſo <hi>Piſcator, Non ſemper &amp; ubi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, nec per ſe &amp;
+ſimpliciter ad ſalutem neceſſaria, ſed ad pacem Eccleſiae &amp;
+vitandas offenſiones, ut aleretur mutua benevo<g ref="char:EOLhyphen"/>lentia inter Judaeos &amp;
+Gentiles:</hi> The ſenſe whereof I ſhall give you from the
+<hi>Engliſh</hi> An<g ref="char:EOLhyphen"/>notations on the place, The word neceſſary is not
+referred to the Ceremonies, but the pre<g ref="char:EOLhyphen"/>ſent occaſion, and perſons
+whoſe Salvation and Unity was neceſſary. Now who dares ſay, they were
+not bound to obſerve thoſe Canons, when the Apoſtles ſay, it ſeemed
+good to the Holy Ghoſt, as well as to them, to lay theſe things upon them,
+as neceſſary to be obſerved for the time and ends above mentioned?</p>
+            <p>Again, we find St. <hi>Paul</hi> commending the
+<hi>Co<g ref="char:EOLhyphen"/>rinthians,</hi> 1 Epiſtle, Ch. 11. v. 2. for keeping the Ordinances
+which he delivered them, that is, ſay our Annotators, particular Ordinances
+for comelineſs and good order, which belong<g ref="char:EOLhyphen"/>ed to Eccleſiaſtical Polity,
+and were afterward called Canons, againſt which, if any but only ſeemed to
+be contentious by diſputing againſt them, the Apoſtle ſilenced them by
+that, in Verſ. 16. <hi>We have no ſuch cuſtome, neither the Churches of
+God,</hi> that is, ſay the ſame Anno<g ref="char:EOLhyphen"/>tators, to contend about matters of
+this na<g ref="char:EOLhyphen"/>ture; but willingly and cheerfully to obey thoſe that have the
+over-ſight of us in the Lord And <pb n="21" facs="tcp:93904:26"/>it is fit to conſider
+the nature of the matter treated of, which was, how Men and Women ought to
+behave themſelves at publick Prayers, which behaviour the Apoſtle would
+have to agree with thoſe ſigns and geſtures of reve<g ref="char:EOLhyphen"/>rence, 
+<note place="margin">Camcron. in loc.</note> which Subjects are wont
+to yield to their Princes: and although the <hi>Jews</hi> worſhip<g ref="char:EOLhyphen"/>ped with
+their Heads covered, which was e<g ref="char:EOLhyphen"/>ſteemed a ſign of reverence among them, as
+alſo do the <hi>Turks</hi> to this day ſit covered, and bowing their Bodies
+at their Devotions, as they are wont to do in the preſence of their Rulers;
+yet the Apoſtle being to plant the Church among the <hi>Romans,</hi> and
+<hi>Grecians,</hi> with whom the uncovering of the Head was a to<g ref="char:EOLhyphen"/>ken of
+reverence, he appoints the ſame beha<g ref="char:EOLhyphen"/>viour in the Worſhip of God. And this
+was practiſed by the Chriſtians in <hi>Tertullian</hi>'s days, 
+<note place="margin">Apologet.</note> who prayed <hi>Capite nudo,
+expanſis manibus,</hi> with bare Heads, and Hands lifted up, and this
+<hi>Tertullian</hi> calls <hi>legem Dei,</hi> God's Law, <hi>Quae<g ref="char:EOLhyphen"/>ris legem
+Dei? habes communem iſtam in publico mundi &amp; in naturalibus tabulis ad
+quas &amp; A<g ref="char:EOLhyphen"/>poſtolus provocare ſolet cùm in velamine faciei,
+inquit, Non natura vos docet?</hi> For by Nature here, as <hi>Grotius</hi>
+obſerves, ſuch general cu<g ref="char:EOLhyphen"/>ſtomes as had obtained among the
+<hi>Gentiles</hi> are intended, <hi>Non eſt hoc plane Naturale, 
+<note place="margin">Grotius in loc.</note> ſed quod longe
+late<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> receptum, ut Jurisconſulti dant no<g ref="char:EOLhyphen"/>men Juris Naturalis, Juri
+Gentium.</hi> Our Apoſtle then in this place doth, as with a two<g ref="char:EOLhyphen"/>edged Sword,
+cut off all diſputations, conten<g ref="char:EOLhyphen"/>tions, againſt decent Ceremonies in the
+Wor<g ref="char:EOLhyphen"/>ſhip <pb n="22" facs="tcp:93904:27"/>of God, 1. By his Apoſtolical injuncti<g ref="char:EOLhyphen"/>on.
+2<hi>ly,</hi> By the cuſtome of the Churches of God: and to contend about
+ſuch things, and diſturb the peace of the Church is as unrea<g ref="char:EOLhyphen"/>ſonable, as
+irreligious a thing, which is my ſecond argument, The unreaſonableneſs of
+contending for Ceremonies, to the neglect of Moral duties.</p>
+            <p n="1">1. For it agrees with the ſentiments of Man<g ref="char:EOLhyphen"/>kind, as
+<hi>Plato</hi> diſcovers them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>The Gods reſpect
+not our Sacrifices, but our Souls:</hi> And we our ſelves acknowledge not
+them for our Friends, or Servants, who only complement us, or put us off with
+eye-ſervice, or a little lip-labour, <hi>Quin demus Superis —
+Compoſi<g ref="char:EOLhyphen"/>tum Jus, faſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> animi, ſanctoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> receſſus —
+Mentis; &amp; incoctum Generoſo pectus honeſto: Haec cedo ut admoveam
+templis, &amp; farre li<g ref="char:EOLhyphen"/>tabo.</hi>
+            </p>
+            <p n="2">2. Becauſe the works of Mercy are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+the reſemblances of the Divine nature, and life: <hi>Be ye merciful,</hi>
+ſaith our Saviour, <hi>Luke</hi> 6.36. <hi>as your Heavenly Father is
+merciful. 
+<note place="margin">In Divini<g ref="char:EOLhyphen"/>tate nil di<g ref="char:EOLhyphen"/>vinius, in bumanitate nil
+huma<g ref="char:EOLhyphen"/>nius.</note> Lactantius</hi> tells us, <hi>Sum<g ref="char:EOLhyphen"/>ma Religionis eſt eum
+imitari quem colis,</hi> it is the perfection of Religion, to be like him, whom
+we worſhip. Now <hi>God is love, and he that dwelleth in love, dwelleth in
+God, and God in him,</hi> 1 Joh. 4.16. And he that loveth not his Brother, whom
+he hath ſeen, how can he, <hi>(i. e.)</hi> he cannot, love his God whom he
+hath <pb n="23" facs="tcp:93904:27"/>not ſeen, 1 <hi>Joh.</hi> 4.20. God hath made our
+charity, and our peace, as well as our holineſs, 
+<note place="margin">Heb. 12.14</note> conditions, without which we
+ſhall not ſee God: The Prophet <hi>Hoſea,</hi> 
+               <note place="margin">
+                  <hi>c.</hi> 6.6.</note> to inſtruct us in the
+mercifulneſs of God, commends to us the knowledge of God; did we know God
+better, we would love our Brethren more; 1 <hi>Joh.</hi> 4.8. <hi>He that
+loveth not, knoweth not God, for God is love.</hi> It is ſpoken of
+<hi>Joſiah,</hi> that <hi>he judged the cauſe of the poor and needy, was
+not this to know me, ſaith the Lord?</hi> Jer. 22.16.</p>
+            <q>Heu! primae ſcelerum cauſae mortalibus aegris Naturam
+neſcire Deûm. 
+<bibl>
+                  <hi>Sil. Ital.</hi>
+               </bibl>
+            </q>
+            <p>We are moſtly prepoſſeſt with unreaſonable and
+uncharitable Opinions, and paſſions, which do not only diſpoſe us to
+think amiſs of our Brethren, but of God alſo, 
+<note place="margin">See <hi>Jer.</hi> 9.24.</note> as if he were
+ſuch as our ſelves, as the <hi>Indians</hi> being black, paint their Gods
+ſo too. That Man muſt needs be very unmerciful, that can think his God to
+be ſo, and ſure it is, that if God ſhould be as unmerciful towards
+others, as we fancy him, or as we are, there are but few that would be ſaved,
+except thoſe of the ſame fraternity with our ſelves. 
+<note place="margin">Jain. 3.15.</note> But ſuch black thoughts are
+fruits of the ſpirit of Darkneſs; the fruits of the beſt ſpirit, are
+love, joy, peace, 
+<note place="margin">Gal. 5.22.</note> long-ſuf<g ref="char:EOLhyphen"/>fering,
+gentleneſs, goodneſs, <hi>&amp;c.</hi> I ſhall ever ſuſpect that
+Religion, that teacheth Men to love God, and hate their Brethren with all their
+heart.</p>
+            <p>It is no wonder if the Stoicks, that deny the <pb n="24" facs="tcp:93904:28"/>Deity, and aſcribe all to an inexorable fate, do alſo unman
+Humanity, and unbowel Virtue, teaching that a wiſe Man ought to caſt away
+all compaſſion, and making that a defect of the Soul, <hi>viz.</hi> bearing
+one anothers burthens, which a better Philoſopher ſays, 
+<note place="margin">Gal. 6.2.</note> is to fulfill the Law of
+Chriſt. Well might <hi>Cicero</hi> reject them; <hi>(neque enim audiendi
+ſunt, qui virtu<g ref="char:EOLhyphen"/>tem duram, &amp; ferream eſſe volunt)</hi> as not fit to
+be heard, who would transform Virtue, which is of a gentle, tender, tractable,
+and yielding quality, into a rigid, ſtupid, implaca<g ref="char:EOLhyphen"/>ble, and unſociable
+conſtitution: Such wiſe Men have as little brains, as bowels, ſeeing St.
+<hi>James</hi> tells us, that <hi>the wiſdom that is from above, is firſt
+pure, then peaceable, gentle, and eaſie to be intreated, full of mercy and
+good fruits, without partiality and without hypocri<g ref="char:EOLhyphen"/>ſie.</hi> And thus,
+though I have but caſually let fall ſome drops of Mercy into the other
+ſcale, you may perceive how much they do out<g ref="char:EOLhyphen"/>weigh the whole
+<hi>Jewiſh</hi> Diſcipline and Sacri<g ref="char:EOLhyphen"/>fices. The treaſures of Mercy are as
+bound<g ref="char:EOLhyphen"/>leſs as the Ocean, and therefore I ſhall not at<g ref="char:EOLhyphen"/>tempt to contract
+them within this ſcale. <hi>My thoughts are not your thoughts, 
+<note place="margin">Iſ. 55.8.</note> neither are my ways your
+ways; for as the Heavens are higher than the Earth, ſo are my ways higher
+than your ways, and my thoughts than your thoughts,</hi> ſaith the Lord. What
+great things the mercy of God will effect for ſuch as love him, may part<g ref="char:EOLhyphen"/>ly
+appear by the things he works in them, and by them, whom he cauſeth to
+partake of his <pb n="25" facs="tcp:93904:28"/>own ſpirit, and ſo ſheds abroad his
+love into their hearts, that they can extend it again throughout the whole
+World, and be merci<g ref="char:EOLhyphen"/>ful, <hi>as their Heavenly Father is merciful,</hi> even in
+that great inſtance of making (as inſtru<g ref="char:EOLhyphen"/>ments) <hi>the ſun of
+righteouſneſs to ſhine, and the Dew of Heaven to fall upon the just and
+the unjust,</hi> and by their compaſſionate deſires, and faithful
+prayers, their tender mercies are over all the works of God. How gladly could I
+caſt my ſelf into this Ocean, as <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> to <hi>Euripus,</hi>
+and ſay, <hi>Quoniam ego non Comprehendam te, tu Comprehendes me;</hi>
+be<g ref="char:EOLhyphen"/>cauſe I cannot comprehend thy mercies, Lord, let me be comprehended of
+them!</p>
+            <p>But as every duſt of Gold is Gold, ſo every act of mercy is
+precious, and therefore I ſhall not need to mention the infinite perfections
+of Divine mercy, nor thoſe Heroick deeds of merciful Men, whoſe love hath
+been more ſtrong than Death; but confine my ſelf within thoſe ordinary
+bounds of Charity, wherein e<g ref="char:EOLhyphen"/>very Chriſtian may and ought to converſe with
+other, ſuch as the Apoſtle names, 1 <hi>Cor.</hi> 13.4. To be
+long-ſuffering, and kind, not to envy, or vaunt themſelves, not to be
+puffed up, and ſeek their own, not to be eaſily pro<g ref="char:EOLhyphen"/>voked, not to think or
+ſpeak evil: any of theſe defects will, as the want of Salt to the
+Sacri<g ref="char:EOLhyphen"/>fice, make it corrupt, and become unſavory. Every malicious thought
+will be as ſo much fire, to make them evaporate into ſmoke. So the
+Apoſtle aſſures us, 
+<note place="margin">1 Cor. 13.</note> 
+               <hi>Though I spake with 
+<pb n="26" facs="tcp:93904:29"/>the tongue of men and Angels,</hi> though I had the gift of
+Prophecie, and underſtand all My<g ref="char:EOLhyphen"/>ſteries, and knowledge, and had all Faith,
+and have not Charity, it profiteth me nothing. The bare omiſſion of the
+meaneſt acts of Cha<g ref="char:EOLhyphen"/>rity, ſuch as our Saviour mentioneth, <hi>Mat<g ref="char:EOLhyphen"/>thew</hi>
+25.25. is ſufficient to exclude our Souls as well as our Services from
+Heaven. The Phariſees then, had little reaſon to inſiſt ſo exactly on
+a <hi>Levitical</hi> Ceremony of touch<g ref="char:EOLhyphen"/>ing and accompanying with unclean
+perſons; when they admitted that pride and contempt of their brethren, that
+envy againſt Chriſt, which rendred them by far the more unclean. A
+principle which hath much troubled the Church of God in all ages, when
+<hi>Phariſaical</hi> men, firſt cenſure and condemn their Bre<g ref="char:EOLhyphen"/>thren, and
+then ſeparate from them, and grow in hatred againſt them, when they have no
+other reaſon to think ill of their Brethren, but becauſe they think too
+well of themſelves; and by their zeal for the externals of Religi<g ref="char:EOLhyphen"/>on, ſeek
+to palliate their neglect of the moſt eſ<g ref="char:EOLhyphen"/>ſential duties. To theſe our
+Saviour com<g ref="char:EOLhyphen"/>mends the Leſſon in the Text (as well as to thoſe ancient
+<hi>Phariſees</hi>) <hi>Go learn what that meaneth,</hi> &amp;c.</p>
+            <p>Having endeavoured to convince your un<g ref="char:EOLhyphen"/>derſtanding of the truth
+of the propoſition in general, I ſhall apply it as effectually as I can for
+the cure of our preſent diſtempers, for we alſo do trouble our ſelves,
+and others, about many inconſiderable circumſtances of exter<g ref="char:EOLhyphen"/>nal 
+<pb n="27" facs="tcp:93904:29"/>Worſhip, to the neglect of thoſe moral duties of
+Humility, Charity and peace, which are of the very Eſſence of Religion. And
+I doubt not but if we would lay aſide our pride, prejudice, and carnal
+intereſt, and as new born Babes, deſire the ſincere Milk of the Word,
+that we might grow thereby, this plain Leſſon of our Saviour, touching the
+<hi>Love of Mer<g ref="char:EOLhyphen"/>cy,</hi> would more edifie us as well in holineſs, as in
+peace and love, than all the publick de<g ref="char:EOLhyphen"/>clamations or private inſinuations of
+conten<g ref="char:EOLhyphen"/>tious perſons, whoſe zeal (like the little im<g ref="char:EOLhyphen"/>potent heat in
+Inſects, which not being ſuffi<g ref="char:EOLhyphen"/>cient to form ſound vitals within, runs
+out into many weak and uſeleſs members and pro<g ref="char:EOLhyphen"/>duceth (an
+<hi>Ephemeron</hi>) an Animal that en<g ref="char:EOLhyphen"/>dureth but for a day) running out into
+many nice circumſtances, may have ſomething of the ſhew, but very little
+of the ſubſtance and life of Religion. To ſuch I do in the fear of God
+propoſe this method of learning the Leſſon in the Text.</p>
+            <p>Firſt, That our Agreement in the Subſtan<g ref="char:EOLhyphen"/>tials of Religion,
+and the liberty to profeſs and practiſe all things neceſſary to
+Godlineſs and Salvation, ought to be an indiſſoluble bond of peace and
+unity to us all. As the lower Sphears, though they have a proper tendency of
+their own, yet yield to the mo<g ref="char:EOLhyphen"/>tion of the higher Orb; ſo though we have
+ſome fond conceits, and ſmall concerns of our own, we ſhould forſake
+them to comply with the great ends of Religion, Mercy, and Peace. 
+<pb n="28" facs="tcp:93904:30"/>We agree in the ſubſtance of the Goſpel, in the
+Creed, and Commandments, in the Mi<g ref="char:EOLhyphen"/>niſtry, and the Sacraments; we are built
+on the Foundation of the Prophets, and Apoſtles, Jeſus Chriſt himſelf
+being the chief Corner<g ref="char:EOLhyphen"/>ſtone, 
+<note place="margin">
+                  <hi>Eph.</hi> 2.20.</note> and on this
+Foundation we may build as high as Heaven, why ſhould our Pride and
+Contention pull down the Judgment of <hi>Babel</hi> upon us? Methinks there
+ſhould be no place left for diſcord among Brethren that are united by ſo
+many Obligations, 
+<note place="margin">
+                  <hi>Eph.</hi> 4.5.</note> one Lord, one Faith,
+one Baptiſm, one God, one Fa<g ref="char:EOLhyphen"/>ther of all: but though we all pretend to meet
+in the ſame Center, yet the Leaders in every Faction (as the Lines that are
+protracted to the greateſt length) are fartheſt from recon<g ref="char:EOLhyphen"/>ciliation.</p>
+            <p>Though others murmur and will not be con<g ref="char:EOLhyphen"/>tent with <hi>Manna</hi>
+except they may have their fleſh-pots too, Let us bleſs God, that he hath
+eſtabliſhed truth and righteouſneſs among us by a Law. 
+<note place="margin">
+                  <hi>Pſ.</hi> 127.20</note> He hath not dealt
+ſo with other Nations, nor was it ſo with us of late days, and we may
+juſtly fear that our ingratitude and contentions may reduce us to the like
+confuſion.</p>
+            <p>Secondly, If God himſelf will diſpenſe with all the
+externals of his Worſhip, to ſhew us mercy, we need not fear his
+diſpleaſure, if we either omit ſome things that pleaſe us, or admit
+ſome other things that diſpleaſe us in the outward adminiſtrations, for
+the freer ex<g ref="char:EOLhyphen"/>erciſe of mercy and peace: better it is to ſub<g ref="char:EOLhyphen"/>mit to a
+doubtful inconvenience, than to run <pb n="29" facs="tcp:93904:30"/>into a certain
+miſchief. And it will never be accounted among our infirmities, that we were
+not more careful of the publick Worſhip of God, than he himſelf.</p>
+            <p>Thirdly, Neither the external circumſtan<g ref="char:EOLhyphen"/>ces of Worſhip which
+are injoyned, nor thoſe which are contended for, in oppoſition to them,
+have any poſitive command from God, or our Saviour; for our Saviour hath not
+pre<g ref="char:EOLhyphen"/>ſcribed the circumſtances of Divine Worſhip, foreſeeing (as Mr. 
+<note place="margin">
+                  <hi>Inſtit. l.</hi> 4. <hi>c.</hi> 10.
+<hi>n.</hi> 30.</note> 
+               <hi>Calvin</hi> ſays) that the ſame Rites would not
+agree with the ſeveral Na<g ref="char:EOLhyphen"/>tions, and Ages, wherein the Church ſhould be
+planted; and if we conſider that whereas the Two Sacraments only are
+poſitively inſtituted in the New Teſtament, there have been ſo great
+controverſies moved about them, that many large Volumes have been written,
+and many bloudy Battles fought by men of con<g ref="char:EOLhyphen"/>trary minds, it will appear a
+great mercy, that other things did not come under precept; for then, greater
+pretences for maintaining differences would have been pleaded, which now have
+no colour, for as much as the mat<g ref="char:EOLhyphen"/>ters in diſpute fall not under any command,
+and if there be no command, it follows that they are left at liberty, but by
+offending a<g ref="char:EOLhyphen"/>gainſt plain Commands, for obedience and peace, our ſin and
+condemnation are the greater.</p>
+            <p>Fourthly, This ſhall be a Fourth conſidera<g ref="char:EOLhyphen"/>tion, that whatever
+cannot be referred to Faith or good manners, and is neither com<g ref="char:EOLhyphen"/>manded, 
+<pb n="30" facs="tcp:93904:31"/>nor forbidden, that may be done or o<g ref="char:EOLhyphen"/>mitted, as is moſt
+conducible to the great ends of peace, Charity, and Unity. To evince the
+indiffe<g ref="char:EOLhyphen"/>rency of an action, theſe things are ſufficient, Firſt, that
+there be no command injoyning or forbidding it. 2<hi>ly.</hi> That it be
+declared by the Magiſtrate impoſing it, that it is not intended as a part
+of Divine Worſhip, as having an an<g ref="char:EOLhyphen"/>tecedent neceſſity, (and ſo becomes
+an indiſ<g ref="char:EOLhyphen"/>penſable duty,) but for Order, Decency and Unity, and therefore as
+the Caſuiſts ſay, <hi>ex<g ref="char:EOLhyphen"/>tra contemptum &amp; ſcandalum,</hi> if the
+Superiors authority be not deſpiſed, nor our Brethren ſcandalized, the
+practice of ſuch things may be omitted, as you know the Ceremonies may be, in
+caſe of neceſſity, and in private duties, which could not be if they were
+not things indifferent. So that, that part of the Churches declaration, that
+ſays, ſhe hath power to add, alter, or abrogate ſuch Rites, manifeſtly
+de<g ref="char:EOLhyphen"/>clares their indifferency, as <hi>Calvin</hi> alſo af<g ref="char:EOLhyphen"/>firms, ſpeaking of
+the Sacramental Bread, whether it be Levened or unlevened, and the Wine,
+whether Red or White, whether de<g ref="char:EOLhyphen"/>livered into every mans hand by the Deacon, or
+not. <hi>Haec indifferentia ſunt &amp; in Eccleſiae libertate
+poſita.</hi> The Inſtitutions and practice of the Church are a ſufficient
+rule for ſuch practices. The not preſcribing them in Scri<g ref="char:EOLhyphen"/>pture, argueth
+that it was as unneceſſary as impoſſible to be done: for as to that
+rule of the Apoſtle, 
+<note place="margin">
+                  <hi>Ro.</hi> 14.23</note> that <hi>whatſoever
+is not of Faith is Sin,</hi> it imports not, that we either ſhould 
+<pb n="31" facs="tcp:93904:31"/>have a command for every action in the Word of God, or that
+the thing done, is in it ſelf pleaſing to God, but, if it be not forbidden,
+nor really evil, but is in order to other good ends, it may or may not be done,
+(without a Superſtitious fear of offending God,) by ver<g ref="char:EOLhyphen"/>tue of our
+Chriſtian liberty.</p>
+            <p>Fifthly, In all things not determined by the Word of God, we are
+bound to obey the Ma<g ref="char:EOLhyphen"/>giſtrate, by virtue of the general Commands of God, 
+<note place="margin">
+                  <hi>Rom.</hi> 13.</note> and otherwiſe the
+Magiſtrate ſhould have no authority at all, for thoſe things which are
+good in their own nature, are commanded by God, and therefore the Magiſtrate
+muſt have power in things not commanded, or he hath none at all: and ſo in
+things forbidden, which will more plainly appear by what followeth,</p>
+            <p>For, Sixthly, If I may do, or not do things in their nature
+indifferent, rather than offend a weak Brother, (which is the Nonconfor<g ref="char:EOLhyphen"/>miſts
+Plea to the Conformiſts) much more ought I ſo to do, or not do, rather than
+offend a Chriſtian Magiſtrate, or diſturb the publick peace, becauſe
+publick offences are more carefully to be avoided than private, and when the
+Magiſtrates command is added (whether he be Civil or Eccleſiaſtical) that
+which was but lawful before, becomes, <hi>pro hic &amp; nunc,</hi>
+neceſſary, as a means to peace or edifi<g ref="char:EOLhyphen"/>cation, <hi>Acts</hi> 15.20. It is
+certainly more ſin<g ref="char:EOLhyphen"/>ful, to oppoſe the command of many wiſe men (and
+ſuch perhaps as are intruſted by us) or which is the ſame thing to go
+againſt their <pb n="32" facs="tcp:93904:32"/>judgment, and offend their Conſciences,
+than to go againſt the judgment, and offend the Conſciences of a few weak
+Brethren, who neither have the advantages to inform them<g ref="char:EOLhyphen"/>ſelves of the nature
+of things, nor that autho<g ref="char:EOLhyphen"/>rity, or concern, to provide for the publick peace,
+as their Superiours have, but may be eaſily impoſed on, by crafty men that
+lay in wait to deceive. Judge in your ſelves Bre<g ref="char:EOLhyphen"/>thren how intolerable would
+that Servant be in your Family that ſhould be always quarrel<g ref="char:EOLhyphen"/>ling at his
+Maſters habit, or the directions given him for his work; and though he have
+good and wholſom food in plenty, yet diſlikes the Cookery, and being
+reproved for his pride and curioſity, is obſtinate and inſtigates his
+fellow-ſervants to deſert the Family. But herein the Apoſtles example may
+direct us better how far we may, or may not do things indifferent, (and ſuch
+as have ſome appea<g ref="char:EOLhyphen"/>rance of evil in them to others) rather than to give
+offence to a Brother, as in the caſe of meats, which had been declared
+unclean by the Law, (but that difference was by the Goſpel abrogated) and
+were much more accounted pol<g ref="char:EOLhyphen"/>luted by having been offered unto Idols, yet the
+Apoſtle ſays, 
+<note place="margin">1 <hi>Cor.</hi> 8.8.</note> 
+               <hi>meat commendeth
+us not to God, for neither if we eat are we the better, neither if we eat not
+are we the worſe,</hi> it is grace and not meat by which the heart is
+eſtabliſhed; our Chriſtian liberty is an Amulet againſt any corruption
+in ſuch things, for though the practice be determi<g ref="char:EOLhyphen"/>ned, the judgment is free,
+there is <hi>libertas ad op<g ref="char:EOLhyphen"/>poſitum.</hi> 
+               <pb n="33" facs="tcp:93904:32"/>So in the
+caſe of Circumciſion before mentioned, which was ſo abrogated, that S.
+<hi>Paul</hi> ſays, 
+<note place="margin">
+                  <hi>Gal.</hi> 5.2.</note> 
+               <hi>if ye be
+circumciſed</hi> (<hi>i.e.</hi> with an opinion of the legal neceſſity of
+it) <hi>Chriſt ſhall profit you nothing:</hi> Yet to the <hi>Jews,</hi>
+that he might win them, he became as a <hi>Jew,</hi> and then uſed
+Circumciſion, <hi>Acts</hi> 16.3. and to them that were without the Law, as
+without Law, that he might win the <hi>Gentiles,</hi> and then he would not
+Circumciſe, and in all this he was Chriſts Free<g ref="char:EOLhyphen"/>man, though he made
+himſelf a ſervant to all.</p>
+            <p>The Apoſtle knew that his Chriſtian liberty was founded in
+freedom of Judgment and not of practice, and that neither <hi>Circumciſion
+nor <g ref="char:V">Ʋ</g>ncircumciſion</hi> were any thing, 
+<note place="margin">1 <hi>Cor.</hi> 7.19.</note> but the keep<g ref="char:EOLhyphen"/>ing of
+the Commandments. Now no actions of ours that are required in obedience to our
+Superiours about the Publick Worſhip, are ſo obnoxious to cenſure and
+ſcandal, as theſe were, but are under our Chriſtian liberty. And as we
+ought to ſerve one another in love, in obedience to Gods commands; ſo ought
+we in obedience of the ſame, to <hi>ſubmit our ſelves to every Ordinance
+of man for the Lords ſake,</hi> and not uſe our liberty as a Cloke of
+Malici<g ref="char:EOLhyphen"/>ouſneſs, or an occaſion to the fleſh, to caſt off either our
+Love to our Brethren or Obedience to Magiſtrates. For to what end hath God,
+according to his promiſe, raiſed up Kings, to be Nurſing Fathers to his
+Church, or what poſſibility is there, that they ſhould provide for its
+peace, if they have not power in theſe External things? If therefore the
+things com<g ref="char:EOLhyphen"/>manded <pb n="34" facs="tcp:93904:33"/>be indifferent, it is certain that
+obe<g ref="char:EOLhyphen"/>dience to the Magiſtrate is no indifferent thing, but as neceſſary,
+as peace and unity, which can<g ref="char:EOLhyphen"/>not otherwiſe be preſerved.</p>
+            <p>Seventhly, The means are alway, as ſubſer<g ref="char:EOLhyphen"/>vient, ſo inferior
+to the end: Now the end of the Commandment is Charity, as the Apo<g ref="char:EOLhyphen"/>ſtle
+ſaith, 
+<note place="margin">Col. 3.14.</note> and therefore both he, and St.
+<hi>Peter</hi> require charity above all things, 1 <hi>Pet.</hi> 4.8. When
+therefore theſe externals of religion, be<g ref="char:EOLhyphen"/>come apples of contention, they are
+forbid<g ref="char:EOLhyphen"/>den fruit, which cannot be injoyed without the breach of the great
+Commandment: and if they had each of them a particular precept; yet when
+leſſer duties come in competition with greater, they ceaſe to oblige.
+Private Laws yield to publick, humane Laws to the Laws of God; and among God's
+Laws, Po<g ref="char:EOLhyphen"/>ſitive Precepts yield to thoſe that are moral and natural; A Vow,
+or an Oath concerning a thing lawful, if it hinder <hi>Majus bonum
+Na<g ref="char:EOLhyphen"/>turale,</hi> ceaſeth to oblige. The <hi>Corban</hi> might not be pleaded
+in Bar, to the relieving of Pa<g ref="char:EOLhyphen"/>rents; much leſs may any Covenant oblige,
+againſt the Peace of the Church, and the Pub<g ref="char:EOLhyphen"/>lick Parent (as ſome ſtill
+plead, for that which they call the National Covenant.) Thoſe things
+therefore which are matters of Diſci<g ref="char:EOLhyphen"/>pline, and external order, how
+preciſely ſo<g ref="char:EOLhyphen"/>ever injoyned, ought to give place to thoſe that are the
+more ſubſtantial parts of Religi<g ref="char:EOLhyphen"/>on, ſuch as mercy and obedience to
+Magi<g ref="char:EOLhyphen"/>ſtrates, charity, peace, and unity among Chri<g ref="char:EOLhyphen"/>ſtians; 
+<pb n="35" facs="tcp:93904:33"/>and as we may diſuſe ſome things which have been
+generally received in the Church of God, (as were the kiſs of charity, the
+love-feaſts, and anointing of the Sick) ſo certainly we may uſe ſome
+other things, which are injoyned by our Superiors, for the ſake of Order, and
+Unity. When St. <hi>Paul</hi> had e<g ref="char:EOLhyphen"/>ſtabliſhed the Doctrine of Faith in the
+Church of <hi>Corinth,</hi> he tells them, 
+<note place="margin">1 Cor. 11.16.</note> that if about rites and
+ceremonies, <hi>Any man ſeem to be contenti<g ref="char:EOLhyphen"/>ous, we have no ſuch cuſtome,
+neither the Chur<g ref="char:EOLhyphen"/>ches of God:</hi> that is, the cuſtom of the Church is a
+ſufficient Plea againſt ſuch contentious perſons. Thus when the Council
+of <hi>Nice</hi> had compoſed the Articles of Faith in that Creed, they all
+with one conſent approved of the Ancient rites and cuſtomes:
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And <hi>Sozomen</hi> ſays, 
+<note place="margin">
+                  <hi>L.</hi> 7. <hi>c.</hi> 19.</note> it was
+ever e<g ref="char:EOLhyphen"/>ſteemed an unreaſonable thing for thoſe that agreed in the
+Subſtantials of Religion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to ſeparate from each
+other, for cuſtomes, and matters of doubt<g ref="char:EOLhyphen"/>ful diſputation.</p>
+            <p>And it is generally agreed, that the Church<g ref="char:EOLhyphen"/>es, which are
+<hi>ſui Juris,</hi> agreeing in the ſame Faith, may differ in Rites and
+Ceremonies, which they have power to alter, or abrogate, and therefore
+<hi>Calvin</hi> ſays, they are <hi>Mali filii,</hi> wicked Sons, that will
+diſturb the Peace of the Church, their Mother, for ſuch external rites, and
+as the Phariſees in the Text ſeek to with<g ref="char:EOLhyphen"/>draw the Diſciples by ſuch
+objections againſt their Maſter, <hi>Why eateth your Maſter with 
+<pb n="36" facs="tcp:93904:34"/>Publicans and Sinners?</hi> And yet certain it is, that the
+Authors of Sects and Diviſions among us, have no better grounds for all the
+diſor<g ref="char:EOLhyphen"/>ders and confuſion, the proud contempt, and unchriſtian cenſures,
+the ſlander and vexation, that have been as ſo many evil ſpirits raiſed
+among us; and I deſire, that ſuch as are yet in the fault, would not only
+conſider the inſuffi<g ref="char:EOLhyphen"/>ciency of the grounds, but alſo the miſchie<g ref="char:EOLhyphen"/>vous
+conſequences of our diviſions, how di<g ref="char:EOLhyphen"/>rectly oppoſite to our Saviour's
+rule in the Text, <hi>I will have mercy, &amp;c.</hi>
+            </p>
+            <p>Now, that there are Diviſions among us, may be proved by the
+ſame arguments, that the Apoſtle uſeth to prove, that there were
+Diviſions in the Church of <hi>Corinth, 
+<note place="margin">1 Cor. 3.4.</note> (viz.)</hi> when one ſaith,
+<hi>I am of Paul,</hi> and another, <hi>I am of Apollos, &amp;c.</hi> which
+Diviſions, as they cannot be warranted, but on a ſuppoſition of ſome
+great corruption in our Doctrine, or Worſhip, or ſome grand profaneneſs
+in our Members; ſo are they not raiſed without ſuch thoughts in the
+hearts of thoſe that do ſepa<g ref="char:EOLhyphen"/>rate from us, as Mr. <hi>Newcomen</hi>
+obſerved in his Sermon at St. <hi>Pauls, Febr.</hi> 8. 1646. <hi>p.</hi> 40. 
+<q rend="margQuotes">Who are they that brand their Brethren
+with the title of Proud, Time-ſervers, Prelatical, Tyrannical,
+Antichriſtian, but ſuch as ſepa<g ref="char:EOLhyphen"/>rate? Who will ſay that they are of the
+ſame opinion in Fundamentals, and that their dif<g ref="char:EOLhyphen"/>ferences are, but <hi>in
+minutioribus;</hi> but, Why do they in matters of leſſer moment
+tranſ<g ref="char:EOLhyphen"/>greſs the Apoſtles rule? Why do they not <pb n="37" facs="tcp:93904:34"/>keep
+their opinions private, and have their faith to themſelves before God? Why do
+they upon ſo ſmall differences, withdraw from Communion with us, and gather
+them<g ref="char:EOLhyphen"/>ſelves into diſtinct and ſeparate Churches?</q> This is certainly a
+Phariſaical leaven, that fer<g ref="char:EOLhyphen"/>ments and imbitters our ſpirits, and though
+the effects of it may be hid for a time, yet on every heat and agitation it
+ſpreads through the whole lump, and ſwells Men with Pride, and an
+unſociable ſowrneſs of Spirit.</p>
+            <p>And though the things wherein we differ, ſeem to be but ſmall,
+and have a ſhew of pie<g ref="char:EOLhyphen"/>ty, yet the conſequences are ſo notoriouſly and
+really evil, that the moſt zealous preten<g ref="char:EOLhyphen"/>ces for the Diſcipline of
+Chriſt, are too nar<g ref="char:EOLhyphen"/>row a Plaiſter to cover or cure the feſtred rancor
+and malice towards his members. Ce<g ref="char:EOLhyphen"/>remonies are no fit matter to exerciſe our
+zeal and contention, but obedience and cha<g ref="char:EOLhyphen"/>rity. Yet as the Ordinances and
+Rites that were retained by the believing <hi>Jews</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi>
+were ſtill a Wall of ſeparation between them, and the Apoſtle calls it
+<hi>the enmity,</hi> 
+               <note place="margin">Eph. 2.15.</note> ſo is it with us: The
+<hi>Jews</hi> and <hi>Samaritans</hi> dif<g ref="char:EOLhyphen"/>fered chiefly about the place wherein
+they ought to Worſhip, upon which there grew a mortal hatred between them,
+ſo as that there was no commerce between them, they would not ſalute one
+another.—<hi>Nec monſtrare vias eadem niſi Sacra colenti;</hi> and it
+was accounted all one to be a <hi>Samaritan,</hi> and to have a De<g ref="char:EOLhyphen"/>vil. So when
+once Men ſwerve from the cen<g ref="char:EOLhyphen"/>ter <pb n="38" facs="tcp:93904:35"/>and baſis of charity,
+there is no conſiſten<g ref="char:EOLhyphen"/>cy, but Men fall, firſt to vain jangling, and that
+increaſeth to more ungodlineſs, for where bitter envying, or (as the
+original word is) zeal is, there is confuſion, and every evil thing.
+<hi>Behold,</hi> ſaith St. <hi>James, how great a matter a little fire
+kindleth;</hi> if Men ſnatch a Coal from the Altar, it is blown up and down
+by popu<g ref="char:EOLhyphen"/>lar breath, until it be raiſed into a flame, and hath this property
+at leaſt of the fire of the Sanctuary, that the buſie Levites will not
+per<g ref="char:EOLhyphen"/>mit it to go out.</p>
+            <p>I know it will be troubleſome to others, for it is a terror to
+my ſelf to recount, what cataracts and inundations of blood, our
+Church-diviſions, that at firſt, as the prophets Cloud, were but as a
+hand-breadth, have rained down upon the whole Land. I ſhall give it you
+there<g ref="char:EOLhyphen"/>fore in a Foreign inſtance, namely of the <hi>Do<g ref="char:EOLhyphen"/>natiſts</hi> in
+<hi>Africa:</hi> who, becauſe <hi>Cecilian</hi> their Biſhop had admitted
+ſome to his Communion, whom they accuſed for <hi>Traditors,</hi> firſt
+with<g ref="char:EOLhyphen"/>drew from the Church, which as they preten<g ref="char:EOLhyphen"/>ded ought to conſiſt of
+ſuch only as were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, holy, and without blemiſh: and
+be<g ref="char:EOLhyphen"/>cauſe they had read in the <hi>Canticles,</hi> that <hi>Chriſt</hi>
+cauſed his Flock to reſt <hi>ſub meridie,</hi> they con<g ref="char:EOLhyphen"/>cluded, that
+their Party in the South of <hi>Africa,</hi> was that Flock; and hereupon they
+are very induſtrious to gather Congregations, and pick up one of a Family,
+and two or three of a Village, which, as <hi>Optatus</hi> obſerves, were
+ge<g ref="char:EOLhyphen"/>nerally of the weaker ſort. <hi>Aut exivit <g ref="char:V">Ʋ</g>xor <pb n="39" facs="tcp:93904:35"/>&amp; reſedit Maritus, &amp;c.</hi> The Wife is with<g ref="char:EOLhyphen"/>drawn from her
+Husband, the Son or Daugh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er
+from their Parents. And my 
+<note n="*" place="margin">Optatus.</note> Author ſets down the
+Method which thoſe Seducers uſed, <hi>Cai Sei!</hi> or <hi>Caia Scia! bonus
+homo, ſed tradi<g ref="char:EOLhyphen"/>tor, libera animam tuam:</hi> Thou good Man, or good Woman,
+thou art among Idolaters, and Superſtitious perſons, thou haſt good
+affecti<g ref="char:EOLhyphen"/>ons, but they are not rightly placed, come out of <hi>Babylon,</hi> and
+deliver thy Soul: When they had thus increaſed their Party, they built
+<hi>Baſilicas non neceſſarias,</hi> more Churches than were
+neceſſary, and their Sermons were gene<g ref="char:EOLhyphen"/>rally Satyrs againſt the
+Catholicks, and though they were frequently confuted in private
+diſ<g ref="char:EOLhyphen"/>putations, and condemned by many Synods at home, and ſeveral Councils
+abroad, and di<g ref="char:EOLhyphen"/>vers Edicts of the Emperors, yet never would they acquieſce,
+or be reconciled, but vexed the Churches of <hi>Africa</hi> for more than a
+Hun<g ref="char:EOLhyphen"/>dred Years, increaſing their Numbers, and ſubdividing into Factions, as
+the <hi>Primianists</hi> and <hi>Maximianiſts,</hi> the <hi>Rogatians</hi>
+and <hi>Callidi<g ref="char:EOLhyphen"/>ans, Luciferians</hi> and <hi>Circumcellians,</hi> and all of
+them <hi>Donatiſts;</hi> and the <hi>Circumcellians</hi> were a Generation of
+Zealots, ſo fierce and impla<g ref="char:EOLhyphen"/>cable, that <hi>Domitian</hi> himſelf did not
+uſe more cruelty in ſhedding Chriſtians bloud, nor <hi>Ju<g ref="char:EOLhyphen"/>lian,</hi> who
+was <hi>in Rempublicam Chriſtianam in<g ref="char:EOLhyphen"/>genioſe nequam,</hi> could ever
+contrive more miſ<g ref="char:EOLhyphen"/>chievous Inſtruments to deſtroy Chriſtianity withall,
+than theſe <hi>Donatists</hi> were, and there<g ref="char:EOLhyphen"/>fore he countenanced them
+againſt the Catho<g ref="char:EOLhyphen"/>licks. <pb n="40" facs="tcp:93904:36"/>And when at laſt their
+grievances, and the grounds of the Schiſme came to be inqui<g ref="char:EOLhyphen"/>red into, in the
+Conference of <hi>Carthage,</hi> they could object nothing againſt the
+Catholicks, but what here the Phariſees did againſt <hi>Christ, Why eateth
+your Maſter with Publicans and Sinners?</hi> And can any Chriſtian Spirit
+think, that this Plea for a Levitical Ceremony, will juſtifie ſuch
+barbarous cruelties and bloody Sacrifices before him, who hath ſaid, <hi>I
+will have Mercy and not Sacrifice?</hi> For let it be conſidered, that we
+live in a Church, which is eſtabliſhed on the foundation of the Prophets
+and Apoſtles, <hi>Jeſus Chriſt</hi> himſelf being the chief
+corner-ſtone; a Church, wherein no<g ref="char:EOLhyphen"/>thing is forbidden which the Word of God
+commands, nor any thing commanded, which that forbids; a Church, whoſe
+Conſtitutions are truly Ancient and Apoſtolical, for which it is envied by
+her Adverſaries, though bla<g ref="char:EOLhyphen"/>med by thoſe that ſhould be her Friends. In a
+word, a Church, wherein we may be as ho<g ref="char:EOLhyphen"/>ly, devout, and charitable, as fleſh
+and bloud will permit us. This Church is protected by a Gracious King, ſetled
+on the Throne of his Fathers by many miracles of Providence, rea<g ref="char:EOLhyphen"/>dy to gratifie
+the juſt deſires of all good Men. And what ſufficient reaſon can be
+given, to di<g ref="char:EOLhyphen"/>ſturb the peace of ſuch a Church, or to diſobey the commands
+of ſuch a King, for the preſer<g ref="char:EOLhyphen"/>vation of peace and unity, under whom all
+things are lawful, except <hi>(libertas pereundi)</hi> a licence to undo our
+ſelves and others?</p>
+            <pb n="41" facs="tcp:93904:36"/>
+            <p>That there are ſome ſuch imperfections in the Church, as
+diſcontented Perſons may quar<g ref="char:EOLhyphen"/>rel at, is no ſtrange thing, and if
+cauſleſs and frivolous objections may be a ground for Se<g ref="char:EOLhyphen"/>paration, 
+<note place="margin">
+                  <hi>Tanta eſt imperitiae moroſitas ut vel in
+rebus pro<g ref="char:EOLhyphen"/>batiſſimis habeat ſem<g ref="char:EOLhyphen"/>per quid reprehen<g ref="char:EOLhyphen"/>dat.</hi> Cal.</note>
+there can never be a firm peace in any Church, ſeeing that ignorance, and
+intereſt, and malice will ſtill prevail in the hearts of ſome Men: but
+that ſuch things may be tole<g ref="char:EOLhyphen"/>rated, and ſubmitted to, rather than to
+de<g ref="char:EOLhyphen"/>ſtroy the foundations of peace and unity, and rent the Body of
+<hi>Christ,</hi> is the judgment of all ſober Chriſtians. Our Saviour did
+not with<g ref="char:EOLhyphen"/>draw himſelf and his Diſciples from the <hi>Jew<g ref="char:EOLhyphen"/>iſh</hi>
+Synagogues, becauſe there was a High-Prieſt, and the Scribes and
+Phariſees ſate in <hi>Moſes</hi> Chair: 
+<note place="margin">A tolera<g ref="char:EOLhyphen"/>ble Sore is better than a danger<g ref="char:EOLhyphen"/>ous
+reme<g ref="char:EOLhyphen"/>dy. Mr. <hi>Hooker.</hi>
+               </note> Nor did the Apoſtle perſwade the
+Chriſtians to forſake the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth,</hi> wherein were many
+profane Perſons, and great abuſes, but he diſſwaded them from their
+diviſions, which had given occaſion to thoſe ſcandals. And if the
+Church in imitati<g ref="char:EOLhyphen"/>on of her Maſter, do retain ſome ſinful, per<g ref="char:EOLhyphen"/>ſons in
+her Communion, in hope to reform them, it is no charitable courſe to ſeduce
+her Diſciples, as here the Phariſees did, <hi>Why eat<g ref="char:EOLhyphen"/>eth your Maſter
+with Publicans and Sinners?</hi>
+            </p>
+            <p>If the Church did impoſe ſuch Sacrifices, as the Church of
+<hi>Rome</hi> doth, for the Living, and the Dead; a few Pence at the
+<hi>Pope</hi>'s ſhrine, for Sins paſt, preſent, and to come; if it did
+require that daily Mock-ſacrifice of the Bo<g ref="char:EOLhyphen"/>dy and Bloud of Chriſt, in the
+Maſs, of which they themſelves can have no great eſteem, ſee<g ref="char:EOLhyphen"/>ing 
+<pb n="42" facs="tcp:93904:37"/>they order it to give place to the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or
+Worſhip of the Croſs, on a certain day ſet apart for that end, on which,
+(ſaith <hi>Da<g ref="char:EOLhyphen"/>rand</hi> (<hi>Rationale l.</hi> 6. <hi>c.</hi> 77.)
+<hi>Horâ nonâ convenit ad adorandam crucem vacare,</hi>) they
+muſt be wholly intent upon the Worſhipping of the Croſs, as if that were
+indeed the Altar that did Sanctifie the Sacrifice; or if they did impoſe
+ſuch gaudy and numerous Ceremonies as ſhould quite hide and obſcure the
+ſubſtance of Worſhip and Devotion, that it might be ſaid of the Church
+as the Poet ſays of his gaudy Girl—<hi>Pars minima eſt ipſa puella
+ſui;</hi> Then we might have cauſe not only to recede, but to re<g ref="char:EOLhyphen"/>ſiſt,
+as the Martyrs did: but to contend as <hi>Hugh Broughton,</hi> and Mr.
+<hi>Ainſworth</hi> did, to Se<g ref="char:EOLhyphen"/>paration and enmity upon a needleſs
+controver<g ref="char:EOLhyphen"/>ſie, whether <hi>Aarons</hi> Ephod were of a Blew colour, or
+Sea-water-green, and <hi>Tragoedias agere in nugis,</hi> to act Tragedies upon
+no other ground than our own fears or jealouſies, and to uſe our
+Chriſtian Brethren, as the Heathen did their Predeceſſors, wrap them up
+in the skins of Wolves or Bears by defaming, ſlandering and condemning them,
+as Profane and Anti<g ref="char:EOLhyphen"/>chriſtian perſons, and then bait and devour them; this
+is to deal worſe with them than the <hi>Phariſees</hi> did with
+Chriſt.</p>
+            <p>Suppoſe there were a better Government and diſcipline revealed
+than ever yet was known, or practiſed in the Church; ſuppoſe the
+Presbytery were agreeable to the pattern in the Mount, as ſome phraſe it,
+(and if they had <pb n="43" facs="tcp:93904:37"/>ſaid to the pattern of the air, it had
+been alike intelligible) yet if it could not be erected without Rebellion and
+Rapine, with<g ref="char:EOLhyphen"/>out the effuſion of Chriſtian bloud, and raſing the
+foundations of Churches and Kingdoms, that were well eſtabliſhed in the
+truth, and peace of Chriſt, the Text doth warrant the rejection of it, <hi>I
+will have mercy and not Sa<g ref="char:EOLhyphen"/>crifice.</hi>
+            </p>
+            <p>But wherein, I pray, doth the Diſcipline oppoſed by
+<hi>Presbyterians, &amp;c.</hi> to the Peace and Unity of the Church, exceed or
+parallel that which is already eſtabliſhed? or is it as venerable for
+antiquity as the <hi>Jewiſh</hi> Sacrifi<g ref="char:EOLhyphen"/>ces were? is there any thing of
+ſuch beauty as the Temple, and the ſeveral Orders of the Prieſthood? is
+it ſuch a prop to the Royal Tribe as the Prieſthood was, or doth it ſerve
+the Ends of Religion, as the Sacrifices did? Alas very little of all this will
+appear, it is but an invention of yeſterday, that like <hi>Jonah</hi>'s gourd
+ſprung up in a night, and hath a worm alwayes gnawing at the root, and yet
+men think they do well to be angry, and to con<g ref="char:EOLhyphen"/>tend for it, even to the death
+of their Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>Hath not God ſaid I hate robbery though it be for
+burnt-offerings? will God be well-pleaſed with ſuch as ſacrifice their
+Loyalty and Charity, and all moral virtues, to a pre<g ref="char:EOLhyphen"/>tended Reformation of
+Ceremonies? This Mask is ſo worn out that a <hi>Phariſee</hi> would be
+a<g ref="char:EOLhyphen"/>ſhamed of it, and yet a late Gentleman hath <pb n="44" facs="tcp:93904:38"/>taken it
+up, and though his buſineſs was to caſt fire into the ſeveral parts of
+the Nation, eſpecially into the Churches, yet makes him<g ref="char:EOLhyphen"/>ſelf very merry,
+and tells us in his Rehearſal, that the good Old Cauſe was (not only good
+enough but) too good to be fought for: but God forbid, that others ſhould be
+of his mind, to think only ſo well of it, as to fight for it again, for it is
+ſo impoſſible, that any Cauſe fought for with ſuch horrid
+circumſtan<g ref="char:EOLhyphen"/>ces as that was, ſhould be good, that if an Angel from Heaven, 
+<note place="margin">
+                  <hi>Gal.</hi> 1.8.</note> (much leſs when only
+one transformed into an Angel of light.) ſhould aſſert it, I have warrant
+enough not to be<g ref="char:EOLhyphen"/>lieve him.</p>
+            <p>The Sacrifices and Diſcipline of the Law were termed by the
+Apoſtle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 2 <hi>Cor.</hi> 3.7. the miniſtration of
+death, becauſe without ſhedding of bloud (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) there was
+no remiſſion. 
+<note place="margin">
+                  <hi>Heb.</hi> 9.22.</note> And if in this, the
+Diſcipline contended for do reſemble the <hi>Jewiſh</hi> Sacrifices, in
+the ſhedding the bloud, not of Beaſts, but of Chriſtians, and cutting and
+dividing the very body of Chriſt, in fire and ſmoke, and making whole
+Kingdoms burnt-offerings, we may be aſſured the God of Mercy cannot be
+well-pleaſed with ſuch Sa<g ref="char:EOLhyphen"/>crifices.</p>
+            <p>The Honour of God, the Succeſs of the Goſpel, and Salvation of
+Souls, is not con<g ref="char:EOLhyphen"/>cerned in the erecting of ſuch a Diſcipline, nor in
+contending about Ceremonies, which are not otherwiſe hurtful to thoſe great
+ends, <pb n="45" facs="tcp:93904:38"/>but by our needleſs contentions about them. If we
+could order our Converſations according to the Doctrine of the Church, we
+need not fear of diſpleaſing God by Conforming our Devotions to the Liturgy
+of the Church, for <hi>the Kingdom of God is not meat and drink, but
+Righteouſneſs and Peace, and Joy in the Holy Ghoſt:</hi> he that in
+theſe things ſerveth Chriſt, is acceptable to God, and approved of
+men.</p>
+            <p>
+               <q rend="margQuotes">There is no Reaſon we ſhould be thus
+diſ<g ref="char:EOLhyphen"/>joyned and mutually branded. 
+<note place="margin">
+                     <hi>By.</hi> Hall <hi>in a Serm. of the
+miſ<g ref="char:EOLhyphen"/>chief of Faction, p.</hi> 83.</note> This man is right (ye ſay) that
+man is not right, this ſound, that rotten; and how ſo, dear Chri<g ref="char:EOLhyphen"/>ſtians,
+what for Ceremonies and circumſtan<g ref="char:EOLhyphen"/>ces, for Rotchets, or Rounds, or Squares?
+Let me tell you he is right that hath a right heart to his God what Form
+ſoever he is for. The Kingdom of God doth not ſtand in meats or drinks, in
+ſtuffs or colours or faſhions, in noiſes or geſtures, it ſtands in
+Holineſs and Righteouſneſs, in Godlineſs and Charity, in Peace and
+Obedience, and if we have happily attained unto theſe, God doth not ſtand
+upon trifles and niceties of indifferency, and why ſhould we? Away then with
+all falſe jealouſies and uncharitable gloſſes of each others actions
+and eſtates. Let us all in the fear of God be intreated in the bowels of our
+Dear Redeemer, as we Love our Selves, our Land, our Church, the Goſpel, to
+combine our counſels and en<g ref="char:EOLhyphen"/>deavours to the holding of the Unity of the
+Spirit in the bond of peace, and labour and <pb n="46" facs="tcp:93904:39"/>ſtudy, not
+how to widen, and gall, and ran<g ref="char:EOLhyphen"/>kle, but how to ſalve and heal theſe
+unhappy ſores of the Church and State.</q> And as Mr. <hi>Calvin</hi>
+ſaith, 
+<note place="margin">
+                  <hi>Epiſt. ad Catech. Genev.</hi>
+               </note> When
+we ſhall come to that great Tribunal, where we are to render an ac<g ref="char:EOLhyphen"/>count of
+our Miniſtery, There ſhall be no queſtion concerning Ceremonies, neither
+ſhall this conformity in outward things be brought to examination, but the
+lawful uſe of our li<g ref="char:EOLhyphen"/>berty, and that ſhall be adjudged lawful that
+conduceth moſt to edification. Let therefore all our care, circumſpection
+and diligence tend to this, which we may know ſo far to ſucceed, as we
+become Proficients in the ſe<g ref="char:EOLhyphen"/>rious fear of God, in ſincere piety, and
+un<g ref="char:EOLhyphen"/>feigned Sanctity of manners.</p>
+            <p>I know you will all joyn with me, to con<g ref="char:EOLhyphen"/>demn thoſe pitiful
+pretences which are ſtill to be heard from the mouths of ſome profane
+perſons, to excuſe their not frequenting of the Lords Supper, a Sacrament
+which may aſſure them of infinite comfort, and bleſſings, if they did
+not <hi>obicem ponere,</hi> make themſelves uncapable. They pretend a grudge
+againſt a neighbour, on a <hi>punctilio</hi> of profit or reputa<g ref="char:EOLhyphen"/>tion, or
+perhaps a pet againſt their Miniſter, for demanding his Dues, or reproving
+their Vices, and therefore they cannot come. It is the very ſame that is
+pleaded againſt the Com<g ref="char:EOLhyphen"/>munion of the Church, in whoſe Peace and Communion
+they might have Peace and Sal<g ref="char:EOLhyphen"/>vation; they have ſome perverſe Opinions of
+their Brethren, or Miniſter, ſome point of <pb n="47" facs="tcp:93904:39"/>Reputation,
+profit, or trade lies in the way, or ſome ſtrange reports have been
+whiſpered in their ears, by Schiſmatical perſons, the truth whereof they
+had never time to examine, nor diſcretion to judge of; and yet there are
+ſuch invincible prejudices created within them, that they cannot be
+reconciled, <hi>Non amo te, nec poſſum dicere quare,</hi> that is they
+muſt keep at a diſtance, and live in hatred and malice, though they have no
+reaſon for it. But when God ſhall call us to an account for our ignorance,
+and uncharitableneſs, and make inquiſition for the Authors and grounds of
+all thoſe diviſions, that obſtinacy and cruelty that hath been
+practiſed among us, what ſhall we anſwer him? can we ſay as
+<hi>Saul</hi> did except it be falſly, I have kept the Commandments of the
+Lord? it will be replyed then, what mean<g ref="char:EOLhyphen"/>eth the lowing of the Oxen, and the
+bleating of the Sheep that are gone aſtray? if it be pretended that they are
+ſet a-part for a more ſolemn Sacrifice, the Prophet demands, hath the Lord
+as great delight in Sa<g ref="char:EOLhyphen"/>crifice, and burnt-offerings, as in obeying the Voice of
+the Lord? <hi>Behold to obey</hi> (the Commands of God for Peace and Charity)
+<hi>is better than Sacrifice, and to hearken than the fat of Rams.</hi> Shall
+we ſay all our di<g ref="char:EOLhyphen"/>viſions were occaſioned by miſinformation, that the
+Cauſe of God and the Kingdom of Chriſt were con<g ref="char:EOLhyphen"/>cerned, or that it was done
+in oppoſition to a Ceremo<g ref="char:EOLhyphen"/>ny, becauſe we would not receive the Sacrament on
+our Knees, or ſee our Miniſter wear a Surplice, or becauſe we would not
+ſubmit to the injunctions of our Rulers in matters of Decency, 
+<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>bi ad ſummum illud Tribunal ventum
+fuerit ubi reddenda erit olim functionis noſtrae ratio, mi<g ref="char:EOLhyphen"/>nima erit de
+Ceremoniis quaeſtio.</hi> Cal. Epiſt<g ref="char:punc">▪</g> in Catech. Genev.</note> or
+which is as much as any of the reſt, becauſe we would not eat with
+<hi>Publicans</hi> and <pb n="48" facs="tcp:93904:40"/>ſinners? Conſider, if this be
+not contrary to our Sa<g ref="char:EOLhyphen"/>viours rule, of preferring Mercy above Sacrifice, when
+we ſacrifice Mercy and Peace, and Charity, which are ſo ſtrictly
+commanded, to our own ignorance or inter<g ref="char:EOLhyphen"/>eſt, or to the diſcontent and
+maliciouſneſs of wicked men, which are ſo peremptorily forbidden.</p>
+            <p>Remember the Bleſſing pronounced to the Peace-ma<g ref="char:EOLhyphen"/>kers by our
+Saviour, and the Cu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe
+againſt them that are Contentious, and obey not the Goſpel, and then think,
+whether true Comfort and Piety, do lye moſt in being inſtruments of Peace, 
+<note place="margin">
+                  <hi>Deterior eſt qui recedit ab Ec<g ref="char:EOLhyphen"/>cleſiae
+concordiâ, &amp; in haereſin aut Schiſma demigrat, quam qui
+impurè vivit ſalvis dog<g ref="char:EOLhyphen"/>matibus.</hi> Eral. de Eccl. con<g ref="char:EOLhyphen"/>cordiâ,
+p. 113.</note> of Mer<g ref="char:EOLhyphen"/>cy and good Works, or in being Fire-brands in the Church
+of God, inſtruments of Satan, accuſers of the Bre<g ref="char:EOLhyphen"/>thren, enemies of Peace,
+and authors of Confuſion. And think often, that God hath made our following
+of Peace, a condition of Salvation, as well as of Holineſs. <hi>Follow peace
+with all men,</hi> (with all our Chriſtian Brethren more eſpecially)
+<hi>without which no man ſhall ſee the Lord.</hi>
+            </p>
+            <p>The Plea of <hi>Templum Domini,</hi> will but ag<g ref="char:EOLhyphen"/>gravate the guilt
+of ſuch as do ſteal, 
+<note place="margin">
+                  <hi>Jer.</hi> 7.4.</note> and murther, and
+commit Adultery, and ſwear falſly, <hi>Is this Houſe which is called by
+my Name become a den of Robbens?</hi> What greater diſhonour can we do the
+Church of God than under pretence of Zeal for Re<g ref="char:EOLhyphen"/>formation of things
+inconſiderable and doubtful, to open a gap for the greateſt impiety, ſuch
+as Rebellion, and Schiſm, a contempt of things Sacred and Civil, which have
+been after mature deliberation and Primitive cuſtom legally eſtabliſhed
+in the Church of God?</p>
+            <p>If men do indeed deſire the honour and ſafety of Re<g ref="char:EOLhyphen"/>ligion, 
+<pb n="49" facs="tcp:93904:40"/>and the whole Nation, there is no better method of
+effecting it, than by a hearty endeavour, that we may all ſpeak, and mind the
+ſame things, and <hi>keep the unity of the ſpirit, in the bond of
+peace:</hi> by this the power of god<g ref="char:EOLhyphen"/>lineſs will appear, as well as the form
+of it, when that Dove-like ſpirit ſhall poſſeſs our Souls, and
+baniſh all thoſe proud and wrathful diſpoſitions, 
+<note place="margin">
+                  <hi>James</hi> 1.20.</note> that do as much
+hinder the righteouſneſs of God, as love and charity to our Brethren. What
+an honour is it to be a Repairer of the breaches of <hi>Sion,</hi> to ſettle
+the Ark of God, that hath been ſo long in a wandring condition, to convert
+Thouſands of Souls from the error of their ways, and as the good
+<hi>Samari<g ref="char:EOLhyphen"/>tan,</hi> pour in Wine and Oyl to their wounds, that have fal<g ref="char:EOLhyphen"/>len
+among Thieves, in their journeying from <hi>Jeruſalem</hi> to
+<hi>Jericho?</hi> If <hi>Christ</hi> will ſo graciouſly reward at the
+laſt day, all thoſe temporal and bodily ſupplies, that we be<g ref="char:EOLhyphen"/>ſtow on
+his diſtreſſed Members, as himſelf hath expreſſed, <hi>Matth.</hi>
+25.34. much more bountifully will he recompenſe all that labour of love,
+which we manifeſt for the preſer<g ref="char:EOLhyphen"/>vation of thoſe Souls, which he redeemed
+with his pre<g ref="char:EOLhyphen"/>cious bloud, to reduce a ſinner from the error of his ways, by a
+mild reproof, a ſeaſonable inſtruction, a peace<g ref="char:EOLhyphen"/>able and pious example.
+This is to be as <hi>Moſes</hi> was to <hi>Aa<g ref="char:EOLhyphen"/>ron,</hi> (<hi>Exod.</hi>
+4.16.) inſtead of a God and a Saviour unto them. Great is the advantage and
+opportunity that thoſe Men have, who by their parts and reputation have an
+in<g ref="char:EOLhyphen"/>fluence upon the ſpirits and conſciences of their miſguid<g ref="char:EOLhyphen"/>ed Brethren,
+if they would inſtruct them in this plain leſ<g ref="char:EOLhyphen"/>ſon of preferring works of
+mercy and charity above all external ſervices whatſoever; if they would
+convince them, how hateful to God a Phariſaical temper is, that diſpoſeth
+Men to quarrel about external circumſtances, <pb n="50" facs="tcp:93904:41"/>wherein they
+are not at all concerned, and to neglect the moſt neceſſary duties of the
+Goſpel, Judgment, Mercy, and Faith, which are of Eternal concernment to their
+Souls. In ſo doing, they may ſave themſelves, and perhaps thouſands of
+thoſe that know them, and are ready to follow them. And if there be a
+pleaſure in doing good, there is no plea<g ref="char:EOLhyphen"/>ſure like that, which will
+ariſe, from being inſtrumental in ſo publick a bleſſing, wherein the
+very being of Religion, the peace of the Nation, &amp; the ſalvation of
+ſouls are bound together, eſpecially in this juncture of affairs, when for
+want of exerciſing mercy to one another, we expoſe our ſelves as a
+Sacrifice to our common enemies. <hi>Miſericor<g ref="char:EOLhyphen"/>diam volo,</hi> is God's voice
+to us, and may it ever be heard in our Land. If he ſhould have dealt with us,
+as we do one with another, &amp; lay hold of every provocation to deſtroy us,
+the whole Land might have been a ſacrifice to his Ju<g ref="char:EOLhyphen"/>ſtice: but <hi>he hath
+in the midſt of judgment remembred mer<g ref="char:EOLhyphen"/>cy,</hi> and ſeeing it is his mercy
+that we are not conſumed, let us not be ſo unmerciful to our ſelves, 
+<note place="margin">
+                  <hi>Gal.</hi> 5.15.</note> as to bite &amp;
+devour one another till we be utterly conſumed. <hi>Miſericordiam
+volo,</hi> is the Kings Motto, as well as God's; He hath ſometime
+graciouſly manifeſted his readineſs, to diſpenſe with the uſe of
+thoſe eſtabliſhed forms of worſhip, which himſelf retains as moſt
+agreeable to the Word of God, and in which, the Arguments and Sufferings of his
+Royal Father have con<g ref="char:EOLhyphen"/>firmed him (next to a <hi>Jus Divinum</hi>) againſt all
+doubt<g ref="char:EOLhyphen"/>ings or contradictions: yet to ſhew that he alſo loves mer<g ref="char:EOLhyphen"/>cy, rather
+than ſacrifice, he indulged the omiſſion of them, as long as the peace
+and welfare of the Nation could bear it; how ill do they requite this great
+condeſcenſion, that will not recede one ſtep from their pretended holy,
+but really unpeaceable Diſcipline, to follow ſuch a Divine and 
+<pb n="51" facs="tcp:93904:41"/>Royal example, as both God and the King do propoſe to
+them? <hi>Miſericordiam volo,</hi> ſhould be our Petition to the King to
+pardon all that obſtinacy and peeviſhneſs of ſpirit, that keeps us
+ſtill in diſobedience and contradiction to thoſe good and wholeſome
+Laws, whereby we might <hi>lead quiet and peaceable lives, in all godlineſs
+and honesty,</hi> 1 Tim. 2.2. Sure I am <hi>Miſericordiam volo</hi> will one
+day be our Petition to God, that he would not enter into judgment with us; and
+we may know what our ſentence will be then, 
+<note place="margin">
+                  <hi>Rom.</hi> 2.16.</note> for by the Goſpel
+we muſt be judged, and that aſſures us that <hi>with what judgment we
+judge we ſhall be judg<g ref="char:EOLhyphen"/>ed;</hi> and, 
+<note place="margin">Mat. 7.2.</note> 
+               <hi>he ſhall have judgment
+without mer<g ref="char:EOLhyphen"/>cy, that ſheweth no mercy,</hi> James 2.13. <hi>Voluit Deus ut
+quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſit ſibi menſura miſericordiae.</hi> And now
+<hi>Miſericor<g ref="char:EOLhyphen"/>diam volo,</hi> ſhall be my Plea alſo, that you would
+pardon my treſpaſſing on your patience, and that you would ſuf<g ref="char:EOLhyphen"/>fer a
+word of Exhortation. God hath planted us in his own Vineyard, 
+<note place="margin">
+                  <hi>Iſay</hi> 5.</note> hedged us about with
+his Almighty providence, and been at the ex<g ref="char:EOLhyphen"/>pence of Miracles of Mercy, to
+reſtore and eſtabliſh us on foundations of peace and righteouſneſs:
+And now that he expects Grapes, <hi>let us not bring forth wild grapes,</hi> he
+looketh for judgment, <hi>let us not bring forth oppreſſion,</hi> and when
+he expects righteouſneſs, let us not bring forth a cry of our own ſins
+and diviſions, and the ſufferings of our brethren, leſt he take away our
+hedge, and we be eaten up, and leſt he break down our wall, and we be trodden
+down of them, that bear evil will to <hi>Sion,</hi> and watch opportunities to
+lay us waſt.</p>
+            <p>If there be any fanatick principle among us, (and there are
+certainly very many) this is one, to think that purity of Ordinances will
+commute for the impurity of our <pb n="52" facs="tcp:93904:42"/>lives, or that we are
+either better, or ſafer, for being of this, or that Party: <hi>Lot</hi> and
+<hi>Noah</hi> are commended for being righteous in a wicked, and perverſe
+Generation; their condemnation will be the greater, that are wicked and
+unrighteous in a holy Nation, and Schiſmatical in the Communion of a Church
+truly Catholick and Apoſtoli<g ref="char:EOLhyphen"/>cal: Let none of us be as the Sons of
+<hi>Eli,</hi> Sons of <hi>Belial,</hi> that ſnatched at the fleſh while it
+was raw, and ſerved themſelves before the Lord, whereby they made the
+of<g ref="char:EOLhyphen"/>ferings of the Lord to be abhorred of the People: Let none of us be like the
+Proud and Hypocritical Phariſees, who thought to cloke their real impieties,
+in neglecting works of mercy and peace, by a pretence of zeal for the minute
+circumſtances of external Worſhip and Diſciplin; but let us offer to God
+the ſacrifices of a humble and contrite heart, and not forget <hi>to do good,
+and communicate, 
+<note place="margin">Heb. 13.16.</note> for with ſuch ſacrifices
+God is well pleaſed:</hi> and then he will accept our praiſes, and anſwer
+our Prayers with a <hi>Miſericordiam volo: I will have mercy upon you, and
+heal your Land.</hi> Which God grant for the ſake of Jeſus Chriſt,
+<hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93904:42"/>
+         </div>
+      </body>
+   </text>
+</TEI>
